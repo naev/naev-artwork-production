@@ -2,3 +2,10 @@
   license: CC-by 3.0
   music:
     - meeting_mtfox.ogg
+- Kenny.nl:
+  license: CC0
+  sounds:
+    - gambling:
+      - cardSlide[1-8].ogg
+      - chipsStack[1-6].ogg
+      - dieThrow[1-3].ogg
