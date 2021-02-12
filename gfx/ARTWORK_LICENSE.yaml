@@ -1,0 +1,23 @@
+- Bobbens:
+   license: CC-by-sa 4.0
+   vn:
+     characters:
+       - cyborg_chicken.png
+       - drshrimp.png
+       - dvaered_thug1.png
+       - maikki.png
+       - minerva_terminal.png
+       - minervaceo.png
+       - misi.png
+       - old_man.png
+       - scavenger1.png
+       - strangelove.png
+       - zalek1.png
+       - zalek2.png
+       - zalek3.png
+       - zalek_thug1.png
+- Fernando L. Copercini \"Bisc88\" <fernandoluis1732@yahoo.com.br>:
+   license: GPLv3+
+   planet:
+     exterior:
+       - agricultural.webp
