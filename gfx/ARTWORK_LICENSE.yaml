@@ -21,3 +21,21 @@
    planet:
      exterior:
        - agricultural.webp
+- Viktor Hahn:
+   license: CC-by 4.0
+   planet:
+      exterior:
+        - citadel.webp
+        - city_landing_pad.webp
+        - coastal_landing_site.webp
+        - coastal_landing_site_sunset.webp
+        - oceanic_city.webp
+        - oceanic_landing_pads.webp
+        - silo.webp
+        - station_scene.webp
+        - underground_facility.webp
+        - zalek_station1.webp
+        - zalek_station2.webp
+      space:
+        - zalek_station1.webp
+        - zalek_station2.webp
