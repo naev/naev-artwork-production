@@ -32,3 +32,10 @@
   sounds:
     - ui:
       - happy.wav (freesound 274203)
+    - loops:
+      - alienplanet.ogg (freesound 270527)
+- Carlos Carty:
+  license: CC-by 3.0
+  sounds:
+    - songs:
+      - inca-spa.ogg (freesound 390879)
