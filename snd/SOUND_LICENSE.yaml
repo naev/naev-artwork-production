@@ -9,3 +9,26 @@
       - cardSlide[1-8].ogg
       - chipsStack[1-6].ogg
       - dieThrow[1-3].ogg
+- jonhtap:
+  license: CC0
+  sounds:
+    - loops:
+      - creepy_guitar.ogg (freesound 528143)
+      - riviere.ogg (freesound 528301)
+    - jingles:
+      - eerie.ogg (freesound 527757)
+- fisch12345:
+  license: CC0
+  sounds:
+    - jingles:
+      - success.ogg (freesound 325112)
+- Silverillusionist:
+  license: CC-by 3.0
+  sounds:
+    - jingles:
+      - victory.ogg (freesound 462249)
+- LittleRobotSoundFactory:
+  license: CC-by 3.0
+  sounds:
+    - ui:
+      - happy.wav (freesound 274203)
