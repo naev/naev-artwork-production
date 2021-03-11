@@ -1,44 +1,44 @@
 - BoxCat Games:
   license: CC-by 3.0
   music:
-    - meeting_mtfox.ogg
+    - meeting_mtfox.ogg (https://soundcloud.com/boxcatllc/meeting-mtfox)
 - Kenny.nl:
   license: CC0
   sounds:
     - gambling:
-      - cardSlide[1-8].ogg
-      - chipsStack[1-6].ogg
-      - dieThrow[1-3].ogg
-- jonhtap:
+      - cardSlide[1-8].ogg (https://www.kenney.nl/assets/casino-audio)
+      - chipsStack[1-6].ogg (https://www.kenney.nl/assets/casino-audio)
+      - dieThrow[1-3].ogg (https://www.kenney.nl/assets/casino-audio)
+- jonhtrap:
   license: CC0
   sounds:
     - loops:
-      - creepy_guitar.ogg (freesound 528143)
-      - riviere.ogg (freesound 528301)
+      - creepy_guitar.ogg (https://freesound.org/people/johntrap/sounds/528143/)
+      - riviere.ogg (https://freesound.org/people/johntrap/sounds/528301/)
     - jingles:
-      - eerie.ogg (freesound 527757)
+      - eerie.ogg (https://freesound.org/people/johntrap/sounds/527757/)
 - fisch12345:
   license: CC0
   sounds:
     - jingles:
-      - success.ogg (freesound 325112)
+      - success.ogg (https://freesound.org/people/fisch12345/sounds/325112/)
 - Silverillusionist:
   license: CC-by 3.0
   sounds:
     - jingles:
-      - victory.ogg (freesound 462249)
+      - victory.ogg (https://freesound.org/people/SilverIllusionist/sounds/462249/)
 - LittleRobotSoundFactory:
   license: CC-by 3.0
   sounds:
     - ui:
-      - happy.wav (freesound 274203)
+      - happy.wav (https://freesound.org/people/LittleRobotSoundFactory/sounds/274203/)
     - loops:
-      - alienplanet.ogg (freesound 270527)
+      - alienplanet.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/270527/)
     - songs:
-      - feeling-good-05.ogg (freesound 320956)
-      - feeling-good-08.ogg (freesound 320970)
+      - feeling-good-05.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/320956/)
+      - feeling-good-08.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/320970/)
 - Carlos Carty:
   license: CC-by 3.0
   sounds:
     - songs:
-      - inca-spa.ogg (freesound 390879)
+      - inca-spa.ogg (https://freesound.org/people/CarlosCarty/sounds/390879/)
