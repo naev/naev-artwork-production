@@ -49,9 +49,10 @@
        - caesar_blue.png
 - Areze (modified from works by AstroMenace, Brian J. Cameron, and Renderwahn):
    license: GPLv3+
-    store:
+   outfit:
+     space:
        - headhunterturret.webp
        - imperatorlauncher.webp
        - imperator.webp
-    space:
+     space:
        - imperator.webp
