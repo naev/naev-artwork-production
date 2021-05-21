@@ -60,3 +60,7 @@
   sounds:
     - songs:
       - news.ogg (https://freesound.org/people/copyc4t/sounds/218372/)
+- Areze (made from works by Vega Strike and Johnathan Trumbo):
+  license: GPLv2+
+  sounds:
+    - torpedo.ogg
