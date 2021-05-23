@@ -1,3 +1,28 @@
+- Vega Strike:
+   license: GPLv2+
+   loading:
+     - admonisher.webp
+     - ancestor_pirate.webp
+     - admonisher_pirate.webp
+     - ancestor.webp
+     - ancestor_pirate.webp
+     - archimedes.webp
+     - derivative.webp
+     - drone.webp
+     - gawain.webp
+     - goddard.webp
+     - hawking.webp
+     - kahan.webp
+     - koala.webp
+     - lancelot.webp
+     - llama.webp
+     - mule.webp
+     - pacifier.webp
+     - quicksilver.webp
+     - schroedinger.webp
+     - vendetta.webp
+     - vendetta_pirate.webp
+     - vigilance.webp
 - Bobbens:
    license: CC-by-sa 4.0
    vn:
