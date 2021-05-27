@@ -1,3 +1,28 @@
+- Vega Strike:
+   license: GPLv2+
+   loading:
+     - admonisher.webp
+     - ancestor_pirate.webp
+     - admonisher_pirate.webp
+     - ancestor.webp
+     - ancestor_pirate.webp
+     - archimedes.webp
+     - derivative.webp
+     - drone.webp
+     - gawain.webp
+     - goddard.webp
+     - hawking.webp
+     - kahan.webp
+     - koala.webp
+     - lancelot.webp
+     - llama.webp
+     - mule.webp
+     - pacifier.webp
+     - quicksilver.webp
+     - schroedinger.webp
+     - vendetta.webp
+     - vendetta_pirate.webp
+     - vigilance.webp
 - Bobbens:
    license: CC-by-sa 4.0
    vn:
@@ -43,10 +68,10 @@
    license: CC-by 3.0
    outfit:
      space:
-       - caesar_blue.png
+       - caesar_blue.webp
      store:
-       - caesarlauncher_blue.png
-       - caesar_blue.png
+       - caesarlauncher_blue.webp
+       - caesar_blue.webp
 - Areze (modified from works by AstroMenace, Brian J. Cameron, and Renderwahn):
    license: GPLv3+
    outfit:
@@ -61,3 +86,28 @@
    outfit:
      space:
        - tesla.webp
+- M. R. Bokhari \"Viruk\" <withextremeprejudice@gmail.com>:
+   license: CC-by-sa 3.0
+   loading:
+     - sting.webp
+     - diablo.webp
+- The Diligent Circle, based on work from Vega Strike and work by Enigmatic:
+   license: GPLv3
+   map:
+      - proteron.webp
+- The Diligent Circle, based on work from Josh Combs:
+   license: CC-by-sa 3.0
+   map:
+     - nebula.webp
+- Kinniken:
+   license: GPLv3
+   map:
+     - empire.webp
+- nenau (based on work from Vega Strike and Kinniken):
+   license: GPLv3+
+   map:
+     - dvaered.webp
+     - frontier.webp
+     - sirius.webp
+     - soromid.webp
+     - zalek.webp
