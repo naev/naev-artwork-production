@@ -50,9 +50,14 @@
 - Areze (modified from works by AstroMenace, Brian J. Cameron, and Renderwahn):
    license: GPLv3+
    outfit:
-     space:
+     store:
        - headhunterturret.webp
        - imperatorlauncher.webp
        - imperator.webp
      space:
        - imperator.webp
+- Areze:
+   license: GPLv3+
+   outfit:
+     space:
+       - tesla.webp
