@@ -48,6 +48,25 @@
        - agricultural.webp
 - Viktor Hahn:
    license: CC-by 4.0
+   outfit:
+     store:
+       - agility_combat_ai.webp
+       - berserk_chip.webp
+       - bioneural_combat_ai.webp
+       - blink_drive.webp
+       - cyclic_combat_ai.webp
+       - emergency_stasis_inducer.webp
+       - faraday_tempest_coating.webp
+       - hive_combat_ai.webp
+       - hunting_combat_ai.webp
+       - hyperbolic_blink_engine.webp
+       - lattice_thermal_coating.webp
+       - milspec_impactoplastic_coating.webp
+       - neural_accelerator_interface.webp
+       - nexus_stealth_coating.webp
+       - photovoltaic_nanobot_coating.webp
+       - pinpoint_combat_ai.webp
+       - scanning_combat_ai.webp
    planet:
       exterior:
         - citadel.webp
