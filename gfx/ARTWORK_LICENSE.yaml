@@ -41,6 +41,10 @@
        - zalek2.png
        - zalek3.png
        - zalek_thug1.png
+   outfit:
+     store:
+       - love_letter.webp
+       - fuzzy_dice.webp
 - Fernando L. Copercini \"Bisc88\" <fernandoluis1732@yahoo.com.br>:
    license: GPLv3+
    planet:
