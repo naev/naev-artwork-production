@@ -109,6 +109,8 @@
    outfit:
      space:
        - tesla.webp
+     store:
+       - cryogenic_repair_nanobots.webp
 - M. R. Bokhari \"Viruk\" <withextremeprejudice@gmail.com>:
    license: CC-by-sa 3.0
    loading:
