@@ -147,3 +147,15 @@
    license: PD
    misc:
      - crimson_gauntlet.webp
+- Edgar Simo-Serra \"bobbens\" (based on work by knik1985 <https://opengameart.org/users/knik1985>):
+   license: CC-by 3.0
+   overlays:
+     - rarity_1.webp
+     - rarity_2.webp
+     - rarity_3.webp
+     - rarity_4.webp
+     - rarity_5.webp
+- Edgar Simo-Serra \"bobbens\" (based on work by GNOME PROJECT):
+   license: CC-by-sa 3.0
+   overlays:
+     - active.webp
