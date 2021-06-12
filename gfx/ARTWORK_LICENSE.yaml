@@ -143,3 +143,7 @@
    outfit:
      store:
        - vacuum_cleaner.webp
+- WPCLIPART:
+   license: PD
+   misc:
+     - crimson_gauntlet.webp
