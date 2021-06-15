@@ -40,6 +40,8 @@
   filename: combat2.ogg
 - name: Combat 3
   filename: combat3.ogg
+- name: Meeting MtFox
+  filename: meeting_mtfox.ogg
 
 # Landing
 - name: Agricultural Planet

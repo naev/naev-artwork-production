@@ -150,17 +150,17 @@
     music:
     - blackmoor_tides.ogg
     - imminent_threat.ogg
-- BoxCat Games:
+- BoxCat Games <https://soundcloud.com/boxcatllc/meeting-mtfox>:
     license: CC-by 3.0
     music:
-    - meeting_mtfox.ogg (https://soundcloud.com/boxcatllc/meeting-mtfox)
-- Kenny.nl:
+    - meeting_mtfox.ogg
+- Kenny.nl <https://www.kenney.nl/assets/casino-audio>:
     license: CC0
     sounds:
     - gambling:
-      - cardSlide[1-8].ogg (https://www.kenney.nl/assets/casino-audio)
-      - chipsStack[1-6].ogg (https://www.kenney.nl/assets/casino-audio)
-      - dieThrow[1-3].ogg (https://www.kenney.nl/assets/casino-audio)
+      - cardSlide[1-8].ogg
+      - chipsStack[1-6].ogg
+      - dieThrow[1-3].ogg
 - jonhtrap:
     license: CC0
     sounds:
