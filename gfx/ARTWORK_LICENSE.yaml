@@ -815,3 +815,214 @@
     outfit:
       store:
       - thruster.webp
+- Ingo Ruhnke <grumbel@gmx.de>:
+    license: GPLv3
+    portraits:
+    - none.webp
+    - unknown.webp
+- Nihilos <https://opengameart.org/users/nihilos>:
+    license: CC-by 3.0 (based on portraits by Ingo Ruhnke <grumbel@gmx.de>)
+    portraits:
+      dvaered:
+      - unique:
+        - ka'def.webp
+        - vicious.webp
+        - zolo.webp
+      - dv_civilian_f1.webp
+      - dv_civilian_f2.webp
+      - dv_general1.webp
+      - dv_military_m1.webp
+      - dv_military_m2.webp
+      - dv_military_m3.webp
+      - dv_military_f1.webp
+      - dv_military_f2.webp
+      empire:
+      - unique:
+        - czesc.webp
+        - dimitri.webp
+        - keer.webp
+        - soldner.webp
+      - empire_mil_f1.webp
+      - empire_mil_m1.webp
+      - empire_mil_m2.webp
+      - empire_mil_m3.webp
+      flf:
+        unique:
+        - benito.webp
+      neutral:
+      - unique:
+        - aristocrat.webp
+        - drunkard.webp
+        - flintley.webp
+        - hunter.webp
+        - jorek.webp
+        - mia.webp
+        - neil.webp
+        - oldwoman.webp
+        - rebina.webp
+        - rebina_casual.webp
+        - reynir.webp
+        - reynir2.webp
+        - youngbusinessman.webp
+        - youngbusinessman2.webp
+      - barman.webp
+      - cyborg1.webp
+      - cyborg2.webp
+      - cyborg3.webp
+      - female1.webp
+      - male1.webp
+      - miner1.webp
+      - miner2.webp
+      - scientist.webp
+      - scientist2.webp
+      - scientist3.webp
+      - thief1.webp
+      - thief2.webp
+      - thief3.webp
+      pirate:
+      - pirate_militia1.webp
+      - pirate_militia2.webp
+      - pirate1.webp
+      - pirate2.webp
+      - pirate3.webp
+      - pirate4.webp
+      sirius:
+      - unique:
+        - harja.webp
+        - joanne.webp
+        - patrek.webp
+      - sirius_fyrra_f1.webp
+      - sirius_fyrra_f2.webp
+      - sirius_fyrra_m1.webp
+- The Diligent Circle, based on components by Nihilos:
+    license: CC-by 3.0
+    portraits:
+      dvaered:
+      - dv_civilian_f3.webp
+      - dv_civilian_f4.webp
+      - dv_civilian_f5.webp
+      - dv_civilian_f6.webp
+      - dv_civilian_f7.webp
+      - dv_civilian_f8.webp
+      - dv_civilian_f9.webp
+      - dv_civilian_f10.webp
+      - dv_civilian_f11.webp
+      - dv_civilian_m1.webp
+      - dv_civilian_m2.webp
+      - dv_civilian_m3.webp
+      - dv_civilian_m4.webp
+      - dv_civilian_m5.webp
+      - dv_civilian_m6.webp
+      - dv_civilian_m7.webp
+      - dv_civilian_m8.webp
+      - dv_civilian_m9.webp
+      - dv_civilian_m10.webp
+      - dv_civilian_m11.webp
+      - dv_military_f3.webp
+      - dv_military_f4.webp
+      - dv_military_f5.webp
+      - dv_military_f6.webp
+      - dv_military_f7.webp
+      - dv_military_f8.webp
+      - dv_military_m4.webp
+      - dv_military_m5.webp
+      - dv_military_m6.webp
+      - dv_military_m7.webp
+      - dv_military_m8.webp
+      empire:
+      - empire_mil_f2.webp
+      - empire_mil_f3.webp
+      - empire_mil_f4.webp
+      - empire_mil_f5.webp
+      - empire_mil_m4.webp
+      - empire_mil_m5.webp
+      - empire_mil_m6.webp
+      - empire_mil_m7.webp
+      - empire_mil_m8.webp
+      neutral:
+      - unique:
+        - arnoldsmith.webp
+        - cynthia.webp
+        - cynthia_father.webp
+        - dealer.webp
+        - fakesister.webp
+        - laidback.webp
+        - michal.webp
+        - middleaged.webp
+        - nexus_agent.webp
+        - paddy.webp
+        - shifty_merchant.webp
+        - unfamiliarman.webp
+      - female2.webp
+      - female3.webp
+      - female4.webp
+      - female5.webp
+      - female6.webp
+      - female7.webp
+      - female8.webp
+      - female9.webp
+      - female10.webp
+      - female11.webp
+      - female12.webp
+      - female13.webp
+      - male2.webp
+      - male3.webp
+      - male4.webp
+      - male5.webp
+      - male6.webp
+      - male7.webp
+      - male8.webp
+      - male9.webp
+      - male10.webp
+      - male11.webp
+      - male12.webp
+      - male13.webp
+      - thief4.webp
+      pirate:
+      - pirate5.webp
+      - pirate6.webp
+      - pirate7.webp
+      - pirate8.webp
+      - pirate9.webp
+      - pirate10.webp
+      - pirate11.webp
+      - pirate12.webp
+      - pirate13.webp
+      - pirate14.webp
+      sirius:
+      - unique:
+        - draga.webp
+        - rodentman.webp
+        - shaman.webp
+        - strangeman.webp
+      - sirius_fyrra_f3.webp
+      - sirius_fyrra_f4.webp
+      - sirius_fyrra_f5.webp
+      - sirius_fyrra_m2.webp
+      - sirius_fyrra_m3.webp
+      - sirius_fyrra_m4.webp
+      - sirius_fyrra_m5.webp
+      - sirius_shiara_f1.webp
+      - sirius_shiara_f2.webp
+      - sirius_shiara_f3.webp
+      - sirius_shiara_f4.webp
+      - sirius_shiara_f5.webp
+      - sirius_shiara_m1.webp
+      - sirius_shiara_m2.webp
+      - sirius_shiara_m3.webp
+      - sirius_shiara_m4.webp
+      - sirius_shiara_m5.webp
+      soromid:
+        unique:
+        - chelsea.webp
+      zalek:
+        unique:
+        - geller.webp
+        - logan.webp
+- Viktor Hahn, based on components by Nihilos:
+    license: CC-by 3.0
+    portraits:
+      zalek:
+        unique:
+        - mensing.webp
+        - student.webp
