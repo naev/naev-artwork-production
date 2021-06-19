@@ -99,6 +99,10 @@
       - \*
       watson:
       - \*
+    commodity:
+    - first_class_passenger.webp
+    - gold.webp
+    - recycled_electronics.webp
 - Bobbens:
     license: CC-by-sa 4.0
     vn:
