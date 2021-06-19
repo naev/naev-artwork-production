@@ -100,6 +100,11 @@
       watson:
       - \*
     commodity:
+    - space:
+      - _default.webp
+      - diamonds.webp
+      - gold.webp
+      - water.webp
     - first_class_passenger.webp
     - gold.webp
     - recycled_electronics.webp
@@ -256,6 +261,9 @@
     - sirius.webp
     - soromid.webp
     - zalek.webp
+    commodity:
+      space:
+      - fuel.webp
 - Open Clip Art Library:
     license: CC0
     outfit:
