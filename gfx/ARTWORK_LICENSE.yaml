@@ -732,6 +732,8 @@
     - nebula16.webp
     - nebula17.webp
     - nebula19.webp
+    commodity:
+    - water.webp
 - NASA:
     license: PD (with modifications by PhoenixRiver, License PD)
     planet:
