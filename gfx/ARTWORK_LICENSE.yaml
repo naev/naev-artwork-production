@@ -1145,3 +1145,7 @@
     license: GPLv3
     intro:
     - questions.webp
+- Mutos:
+    license: CC-by 3.0
+    commodity:
+    - _default.webp
