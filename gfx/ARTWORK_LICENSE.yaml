@@ -123,6 +123,17 @@
       - razor{S,M,L}-end.png
       - ripper{S,M}.png
       - ripper{S,M}-end.png
+      store:
+      - capacitor.webp
+      - capacitor2.webp
+      - capacitor4.webp
+      - capacitor8.webp
+      - neutron.webp
+      - reactor_i.webp
+      - reactor_ii.webp
+      - reactor_iii.webp
+      - shield.webp
+      - stabilizer.webp
 - Bobbens:
     license: CC-by-sa 4.0
     vn:
