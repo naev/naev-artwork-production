@@ -22,8 +22,6 @@ function copy_over {
 # copy_over "??" "demon/demon"
 # copy_over "??" "ingenuity/ingenuity"
 # copy_over "??" "odium/odium"
-# copy_over "??" "prototype/prototype"
-#                 ^^ Actually, this one is currently just sharing a model "mephisto".
 # copy_over "??" "vox/vox"
 
 # And 3 models are apparently extra; otherwise things are one-to-one:
