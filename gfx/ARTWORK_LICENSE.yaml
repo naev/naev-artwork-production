@@ -209,14 +209,12 @@
       - caesar_blue.webp
       store:
       - caesarlauncher_blue.webp
-      - caesar_blue.webp
 - Areze (modified from works by AstroMenace, Brian J. Cameron, and Renderwahn):
     license: GPLv3+
     outfit:
       store:
       - headhunterturret.webp
       - imperatorlauncher.webp
-      - imperator.webp
       space:
       - imperator.webp
 - Areze:
