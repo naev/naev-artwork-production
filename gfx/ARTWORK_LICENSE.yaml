@@ -1213,3 +1213,8 @@
     license: CC-by-SA 2.0
     commodity:
     - seaweed.webp
+- W. R. van Hage <http://www.xs4all.nl/~wrvh/galaxymap/>:
+    license: CC-by-sa 3.0
+    outfit:
+      store:
+      - map.webp
