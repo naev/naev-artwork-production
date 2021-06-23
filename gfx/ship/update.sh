@@ -3,13 +3,13 @@
 #
 #   Variables
 #
-ARTWORK_PATH="../../../../naev-artwork/"
+ARTWORK_PATH="../../../naev-artwork/"
 
 
 #
 #   Copy them all over
 #
-ARTWORK_PATH=$ARTWORK_PATH"3d/final/"
+ARTWORK_PATH=$ARTWORK_PATH"3D/final/"
 
 function copy_over {
    cp "${ARTWORK_PATH}$1.webp" "$2.webp"
