@@ -401,7 +401,8 @@
       - ripperturret.webp
       - railgunturret.webp
     ship:
-    - kestrel
+    - kestrel (retextured by Areze)
+    - kestrel_pirate (retextured by Areze)
     - peacemaker
     loading:
     - kestrel_pirate.webp
