@@ -401,12 +401,14 @@
       - ripperturret.webp
       - railgunturret.webp
     ship:
-    - kestrel (retextured by Areze)
-    - kestrel_pirate (retextured by Areze)
     - peacemaker
     loading:
     - kestrel_pirate.webp
     - peacemaker.webp
+- Josiah Schwartfeger (retextured by Areze):
+    license: CC-by 3.0
+    ship:
+    - kestrel
 - Renderwahn:
     license: CC-by 3.0
     spfx:
