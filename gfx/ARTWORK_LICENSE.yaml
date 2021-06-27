@@ -1226,3 +1226,8 @@
     outfit:
       store:
       - reroute.webp
+- nenau:
+    license: GPLv3+
+    commodity:
+      space:
+      - flowers.webp
