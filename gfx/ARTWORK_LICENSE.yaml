@@ -429,6 +429,8 @@
       - X00.webp
       - X01.webp
       - Y00.webp
+    logo:
+    - pirate.webp
 - Sean Hildebrand:
     license: CC-by 3.0
     planet:
@@ -481,6 +483,13 @@
       - station-shipyard.webp
       - station-shipyard2.webp
       - station-sphere.webp
+    logo:
+    - collective.webp
+    - flf.webp
+    - frontier.webp
+    - proteron.webp
+    - soromid.webp
+    - trader.webp
 - BTAxis:
     license: PD
     planet:
@@ -557,6 +566,8 @@
     license: CC-by-sa 3
     ship:
     - ingenuity
+    logo:
+    - thurion.webp
 - Josh Combs <http://freeorion.org>:
     license: CC-by-sa 3.0
     bkg:
@@ -882,6 +893,12 @@
     portraits:
     - none.webp
     - unknown.webp
+    logo:
+    - dvaered.webp
+    - empire.webp
+    - goddard.webp
+    - sirius.webp
+    - zalek.webp
 - Nihilos <https://opengameart.org/users/nihilos>:
     license: CC-by 3.0 (based on portraits by Ingo Ruhnke <grumbel@gmx.de>)
     portraits:
@@ -1231,3 +1248,5 @@
     commodity:
       space:
       - flowers.webp
+    logo:
+    - miner.webp
