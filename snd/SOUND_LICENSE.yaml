@@ -220,3 +220,7 @@
     license: GPLv2+
     sounds:
     - tesla.ogg
+    - beam_fuzzy.ogg
+    - beam_fuzzy_off.ogg
+    - beam_wave.ogg
+    - beam_wave_off.ogg
