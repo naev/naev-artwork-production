@@ -550,6 +550,8 @@
     spfx:
     - expm2.webp
     - expl2.webp
+    gui:
+    - hail.webp
 - Nikola Whallon <6.saturn.6@gmail.com>:
     license: GPLv3 / CC-by 3
     planet:
