@@ -405,6 +405,8 @@
     loading:
     - kestrel_pirate.webp
     - peacemaker.webp
+    root:
+    - icon.webp
 - Josiah Schwartfeger (retextured by Areze):
     license: CC-by 3.0
     ship:
