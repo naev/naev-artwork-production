@@ -1257,3 +1257,7 @@
       - flowers.webp
     logo:
     - miner.webp
+- qubodup <https://openclipart.org/artist/qubodup>:
+    license: PD
+    overlays:
+    - portrait_exclamation.webp
