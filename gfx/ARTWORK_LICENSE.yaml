@@ -450,6 +450,7 @@
       store:
       - biometal.webp
       - caesar.webp
+      - apu.webp
       space:
       - gatling.png
       - autocannon.png
