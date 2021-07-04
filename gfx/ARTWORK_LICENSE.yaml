@@ -1,149 +1,1277 @@
 - Vega Strike:
-   license: GPLv2+
-   loading:
-     - admonisher.webp
-     - ancestor_pirate.webp
-     - admonisher_pirate.webp
-     - ancestor.webp
-     - ancestor_pirate.webp
-     - archimedes.webp
-     - derivative.webp
-     - drone.webp
-     - gawain.webp
-     - goddard.webp
-     - hawking.webp
-     - kahan.webp
-     - koala.webp
-     - lancelot.webp
-     - llama.webp
-     - mule.webp
-     - pacifier.webp
-     - quicksilver.webp
-     - schroedinger.webp
-     - vendetta.webp
-     - vendetta_pirate.webp
-     - vigilance.webp
-- Bobbens:
-   license: CC-by-sa 4.0
-   vn:
-     characters:
-       - cyborg_chicken.png
-       - drshrimp.png
-       - dvaered_thug1.png
-       - maikki.png
-       - minerva_terminal.png
-       - minervaceo.png
-       - misi.png
-       - old_man.png
-       - scavenger1.png
-       - strangelove.png
-       - zalek1.png
-       - zalek2.png
-       - zalek3.png
-       - zalek_thug1.png
-   outfit:
-     store:
-       - love_letter.webp
-       - fuzzy_dice.webp
-- Fernando L. Copercini \"Bisc88\" <fernandoluis1732@yahoo.com.br>:
-   license: GPLv3+
-   planet:
-     exterior:
-       - agricultural.webp
-- Viktor Hahn:
-   license: CC-by 4.0
-   outfit:
-     store:
-       - agility_combat_ai.webp
-       - berserk_chip.webp
-       - bioneural_combat_ai.webp
-       - blink_drive.webp
-       - cyclic_combat_ai.webp
-       - emergency_stasis_inducer.webp
-       - faraday_tempest_coating.webp
-       - hive_combat_ai.webp
-       - hunting_combat_ai.webp
-       - hyperbolic_blink_engine.webp
-       - lattice_thermal_coating.webp
-       - milspec_impactoplastic_coating.webp
-       - neural_accelerator_interface.webp
-       - nexus_stealth_coating.webp
-       - photovoltaic_nanobot_coating.webp
-       - pinpoint_combat_ai.webp
-       - scanning_combat_ai.webp
-   planet:
+    license: GPLv2+
+    loading:
+    - admonisher.webp
+    - ancestor_pirate.webp
+    - admonisher_pirate.webp
+    - ancestor.webp
+    - archimedes.webp
+    - derivative.webp
+    - drone.webp
+    - gawain.webp
+    - goddard.webp
+    - hawking.webp
+    - kahan.webp
+    - koala.webp
+    - lancelot.webp
+    - llama.webp
+    - mule.webp
+    - pacifier.webp
+    - quicksilver.webp
+    - schroedinger.webp
+    - vendetta.webp
+    - vendetta_pirate.webp
+    - vigilance.webp
+    planet:
       exterior:
-        - citadel.webp
-        - city_landing_pad.webp
-        - coastal_landing_site.webp
-        - coastal_landing_site_sunset.webp
-        - oceanic_city.webp
-        - oceanic_landing_pads.webp
-        - silo.webp
-        - station_scene.webp
-        - underground_facility.webp
-        - zalek_station1.webp
-        - zalek_station2.webp
+      - aquatic.webp
+      - aquatic2.webp
+      - aquatic3.webp
+      - desertic.webp
+      - desertic2.webp
+      - desertic3.webp
+      - desertic4.webp
+      - forest.webp
+      - forest2.webp
+      - gas.webp
+      - lava.webp
+      - mining.webp
+      - mining2.webp
+      - mining3.webp
+      - mining4.webp
+      - mining5.webp
+      - mining6.webp
+      - oceanic.webp
+      - oceanic2.webp
+      - snow.webp
+      - traderoom.webp
+      - station00.webp
+      - station01.webp
+      - station02.webp
+      - station03.webp
+      - station04.webp
+      - station05.webp
       space:
-        - zalek_station1.webp
-        - zalek_station2.webp
+      - 000.webp
+      - 001.webp
+      - 002.webp
+      - 003.webp
+    spfx:
+    - cargo.webp
+    ship:
+      admonisher:
+      - \*
+      ancestor:
+      - \*
+      archimedes:
+      - \*
+      derivative:
+      - \*
+      drone:
+      - \*
+      gawain:
+      - \*
+      goddard:
+      - \*
+      hawking:
+      - \*
+      hyena:
+      - \*
+      kahan:
+      - \*
+      koala:
+      - \*
+      lancelot:
+      - \*
+      llama:
+      - \*
+      mule:
+      - \*
+      pacifier:
+      - \*
+      quicksilver:
+      - \*
+      schroedinger:
+      - \*
+      vendetta:
+      - \*
+      vigilance:
+      - \*
+      watson:
+      - \*
+    commodity:
+    - space:
+      - _default.webp
+      - diamonds.webp
+      - gold.webp
+      - water.webp
+    - first_class_passenger.webp
+    - gold.webp
+    - recycled_electronics.webp
+    outfit:
+      space:
+      - ion{M,L}.png
+      - ion{M,L}-end.png
+      - laser{1,2,3,4}{S,M,L}.png
+      - mass{M,L}.png
+      - mass{M,L}-end.png
+      - neutron.png
+      - neutron-end.png
+      - particle.png
+      - plasma.png
+      - razor{S,M,L}.png
+      - razor{S,M,L}-end.png
+      - ripper{S,M}.png
+      - ripper{S,M}-end.png
+      store:
+      - capacitor.webp
+      - capacitor2.webp
+      - capacitor4.webp
+      - capacitor8.webp
+      - neutron.webp
+      - reactor_i.webp
+      - reactor_ii.webp
+      - reactor_iii.webp
+      - shield.webp
+      - stabilizer.webp
+- Bobbens:
+    license: CC-by-sa 4.0
+    vn:
+      characters:
+      - cyborg_chicken.png
+      - drshrimp.png
+      - dvaered_thug1.png
+      - maikki.png
+      - minerva_terminal.png
+      - minervaceo.png
+      - misi.png
+      - old_man.png
+      - scavenger1.png
+      - strangelove.png
+      - zalek1.png
+      - zalek2.png
+      - zalek3.png
+      - zalek_thug1.png
+    outfit:
+      store:
+      - love_letter.webp
+      - fuzzy_dice.webp
+- Fernando L. Copercini \"Bisc88\" <fernandoluis1732@yahoo.com.br>:
+    license: GPLv3+
+    planet:
+      exterior:
+      - agricultural.webp
+      - scrapped_station.webp
+      - snowy_cliffs.webp
+      - rocky_small.webp
+      - uninhabited-jungle.webp
+- Viktor Hahn:
+    license: CC-by 4.0
+    outfit:
+      store:
+      - agility_combat_ai.webp
+      - berserk_chip.webp
+      - bioneural_combat_ai.webp
+      - blink_drive.webp
+      - cyclic_combat_ai.webp
+      - emergency_stasis_inducer.webp
+      - faraday_tempest_coating.webp
+      - hive_combat_ai.webp
+      - hunting_combat_ai.webp
+      - hyperbolic_blink_engine.webp
+      - lattice_thermal_coating.webp
+      - milspec_impactoplastic_coating.webp
+      - neural_accelerator_interface.webp
+      - nexus_stealth_coating.webp
+      - photovoltaic_nanobot_coating.webp
+      - pinpoint_combat_ai.webp
+      - scanning_combat_ai.webp
+    planet:
+      exterior:
+      - citadel.webp
+      - city_landing_pad.webp
+      - coastal_landing_site.webp
+      - coastal_landing_site_sunset.webp
+      - oceanic_city.webp
+      - oceanic_landing_pads.webp
+      - silo.webp
+      - station_scene.webp
+      - underground_facility.webp
+      - zalek_station1.webp
+      - zalek_station2.webp
+      space:
+      - zalek_station1.webp
+      - zalek_station2.webp
 - Sean Hildebrand (modified by Areze):
-   license: CC-by 3.0
-   outfit:
-     space:
-       - caesar_blue.webp
-     store:
-       - caesarlauncher_blue.webp
-       - caesar_blue.webp
+    license: CC-by 3.0
+    outfit:
+      space:
+      - caesar_blue.webp
+      store:
+      - caesarlauncher_blue.webp
 - Areze (modified from works by AstroMenace, Brian J. Cameron, and Renderwahn):
-   license: GPLv3+
-   outfit:
-     store:
-       - headhunterturret.webp
-       - imperatorlauncher.webp
-       - imperator.webp
-     space:
-       - imperator.webp
+    license: GPLv3+
+    outfit:
+      store:
+      - headhunterturret.webp
+      - imperatorlauncher.webp
+      space:
+      - imperator.webp
 - Areze:
-   license: GPLv3+
-   outfit:
-     space:
-       - tesla.webp
-     store:
-       - cryogenic_repair_nanobots.webp
-       - star_of_valor.webp
-       - pentagram_of_valor.webp
+    license: GPLv3+
+    outfit:
+      space:
+      - teslaL.webp
+      store:
+      - cryogenic_repair_nanobots.webp
+      - star_of_valor.webp
+      - pentagram_of_valor.webp
 - M. R. Bokhari \"Viruk\" <withextremeprejudice@gmail.com>:
-   license: CC-by-sa 3.0
-   loading:
-     - sting.webp
-     - diablo.webp
+    license: CC-by-sa 3.0
+    loading:
+    - sting.webp
+    - diablo.webp
+    planet:
+      space:
+      - zalek_hq.webp
+    ship:
+      arx:
+      - \*
+      brigand:
+      - \*
+      demon:
+      - \*
+      diablo:
+      - \*
+      hephaestus:
+      - \*
+      ira:
+      - \*
+      marauder:
+      - \*
+      mephisto:
+      - \*
+      nyx:
+      - \*
+      odium:
+      - \*
+      reaver:
+      - \*
+      sting:
+      - \*
+      vox:
+      - \*
+      zalek:
+      - \*
 - The Diligent Circle, based on work from Vega Strike and work by Enigmatic:
-   license: GPLv3
-   map:
-      - proteron.webp
+    license: GPLv3
+    map:
+    - proteron.webp
 - The Diligent Circle, based on work from Josh Combs:
-   license: CC-by-sa 3.0
-   map:
-     - nebula.webp
+    license: CC-by-sa 3.0
+    map:
+    - nebula.webp
 - Kinniken:
-   license: GPLv3
-   map:
-     - empire.webp
+    license: GPLv3
+    map:
+    - empire.webp
 - nenau (based on work from Vega Strike and Kinniken):
-   license: GPLv3+
-   map:
-     - dvaered.webp
-     - frontier.webp
-     - sirius.webp
-     - soromid.webp
-     - zalek.webp
+    license: GPLv3+
+    map:
+    - dvaered.webp
+    - frontier.webp
+    - sirius.webp
+    - soromid.webp
+    - zalek.webp
+    commodity:
+      space:
+      - fuel.webp
 - Open Clip Art Library:
-   license: CC0
-   outfit:
-     store:
-       - vacuum_cleaner.webp
+    license: CC0
+    outfit:
+      store:
+      - vacuum_cleaner.webp
 - WPCLIPART:
-   license: PD
-   misc:
-     - crimson_gauntlet.webp
+    license: PD
+    misc:
+    - crimson_gauntlet.webp
+- Edgar Simo-Serra \"bobbens\" (based on work by knik1985 <https://opengameart.org/users/knik1985>):
+    license: CC-by 3.0
+    overlays:
+    - rarity_1.webp
+    - rarity_2.webp
+    - rarity_3.webp
+    - rarity_4.webp
+    - rarity_5.webp
+- Edgar Simo-Serra \"bobbens\" (based on work by GNOME PROJECT):
+    license: CC-by-sa 3.0
+    overlays:
+    - active.webp
+- Bobbens:
+    license: PD
+    outfit:
+      store:
+      - plasteel.webp
+      space:
+      - lasergreen.png
+    planet:
+      exterior:
+      - methane.webp
+      space:
+      - moon-A00.webp
+      - moon-C00.webp
+      - moon-D01.webp
+      - moon-G00.webp
+      - moon-H00.webp
+      - moon-H01.webp
+      - moon-I00.webp
+      - moon-J01.webp
+      - moon-M01.webp
+      - moon-M02.webp
+      - moon-M04.webp
+      - moon-O00.webp
+      - moon-P00.webp
+      - moon-P01.webp
+      - moon-Y00.webp
+- Joel Hans:
+    license: PD
+    planet:
+      space:
+      - moon-J00.webp
+      - moon-M00.webp
+- Jordi Pegueroles:
+    license: PD
+    spfx:
+    - exps.webp
+    - expm.webp
+    - expl.webp
+    outfit:
+      space:
+      - headhunter.png
+      - mace.png
+- Justin Nichol <http://justinnichol.wordpress.com/>:
+    license: CC-by 3.0
+    planet:
+      space:
+      - moon-A01.webp
+      - moon-G01.webp
+      - moon-H02.webp
+      - moon-I01.webp
+      - moon-J02.webp
+      - moon-K00.webp
+      - moon-L00.webp
+      - moon-M03.webp
+      - moon-M05.webp
+      - moon-M06.webp
+      - moon-O01.webp
+      - moon-P02.webp
+- Brian J. Cameron:
+    license: PD
+    outfit:
+      store:
+      - bansheelauncher.webp
+      space:
+      - empgrenade.png
+      - banshee.png
+    spfx:
+    - emps.webp
+    - empm.webp
+    - shis.webp
+    - shim.webp
+    - plas.webp
+    - plam.webp
+- Josiah Schwartfeger:
+    license: CC-by 3.0
+    outfit:
+      store:
+      - cargopod.webp
+      - afterburner.webp
+      - jammer0.webp
+      - jammer1.webp
+      - laser.webp
+      - laserturret.webp
+      - laserturret2.webp
+      - ioncannon.webp
+      - ionturret.webp
+      - plasma.webp
+      - ragnarok.webp
+      - railgun.webp
+      - orion.webp
+      - ripper.webp
+      - ripperturret.webp
+      - railgunturret.webp
+      - hellburner.webp
+      - fueltank.webp
+    ship:
+    - peacemaker
+    loading:
+    - kestrel_pirate.webp
+    - peacemaker.webp
+    root:
+    - icon.webp
+- Josiah Schwartfeger (retextured by Areze):
+    license: CC-by 3.0
+    ship:
+    - kestrel
+- Renderwahn:
+    license: CC-by 3.0
+    spfx:
+    - debris0.webp
+    - debris1.webp
+    - debris2.webp
+    - debris3.webp
+    - debris4.webp
+    - debris5.webp
+    planet:
+      space:
+      - K02.webp
+      - K03.webp
+      - K04.webp
+      - O02.webp
+      - S00.webp
+      - S01.webp
+      - X00.webp
+      - X01.webp
+      - Y00.webp
+    logo:
+    - pirate.webp
+- Sean Hildebrand:
+    license: CC-by 3.0
+    planet:
+      space:
+      - jumpbuoy.webp
+      - jumppoint.webp
+    outfit:
+      store:
+      - biometal.webp
+      - caesar.webp
+      space:
+      - gatling.png
+      - autocannon.png
+      - plasma2.png
+      - plasma2-end.png
+      - headhunter.png
+      - seeker.png
+      - caesar.png
+    spfx:
+    - plas2.webp
+    - plam2.webp
+    gui:
+      legacy:
+      - minimal_planet.png
+      - minimal_pilot.png
+- Enigmatic:
+    license: CC-by 3.0
+    loading:
+    - fidelity.webp
+    - preacher.webp
+    - shaman.webp
+    ship:
+    - divinity
+    - dogma
+    - fidelity
+    - preacher
+    - shaman
+    planet:
+      space:
+      - station-agriculture.webp
+      - station-battlestation.webp
+      - station-commerce.webp
+      - station-commerce2.webp
+      - station-commerce3.webp
+      - station-cylinder.webp
+      - station-fleetbase.webp
+      - station-fleetbase2.webp
+      - station-fleetbase3.webp
+      - station-powerplant.webp
+      - station-shipyard.webp
+      - station-shipyard2.webp
+      - station-sphere.webp
+    logo:
+    - collective.webp
+    - flf.webp
+    - frontier.webp
+    - proteron.webp
+    - soromid.webp
+    - trader.webp
+- BTAxis:
+    license: PD
+    planet:
+      space:
+      - A00.webp
+      - A01.webp
+      - A02.webp
+      - A03.webp
+      - C00.webp
+      - D00.webp
+      - D01.webp
+      - D02.webp
+      - G00.webp
+      - G01.webp
+      - G02.webp
+      - H00.webp
+      - H01.webp
+      - H02.webp
+      - I00.webp
+      - I01.webp
+      - J00.webp
+      - J01.webp
+      - J02.webp
+      - J03.webp
+      - J04.webp
+      - K00.webp
+      - L00.webp
+      - M00.webp
+      - M01.webp
+      - M02.webp
+      - M03.webp
+      - M04.webp
+      - M05.webp
+      - M06.webp
+      - M07.webp
+      - M08.webp
+      - O00.webp
+      - O01.webp
+      - P00.webp
+      - P01.webp
+      - P02.webp
+    bkg:
+    - star:
+      - blue01.webp
+      - blue02.webp
+      - blue04.webp
+      - green01.webp
+      - green02.webp
+      - orange01.webp
+      - orange02.webp
+      - orange05.webp
+      - redgiant01.webp
+      - white01.webp
+      - white02.webp
+      - yellow01.webp
+      - yellow02.webp
+    - nebula34.webp
+    spfx:
+    - expm2.webp
+    - expl2.webp
+    gui:
+    - hail.webp
+- Nikola Whallon <6.saturn.6@gmail.com>:
+    license: GPLv3 / CC-by 3
+    planet:
+      space:
+      - P03.webp
+      - moon-C01.webp
+- Vicki Li <LacrymosAmaya@gmail.com>:
+    license: GPLv3 / CC-by 3
+    planet:
+      space:
+      - P04.webp
+      - C01.webp
+- Alexander Huitric <ahuitric@gmail.com>:
+    license: CC-by-sa 3
+    ship:
+    - ingenuity
+    logo:
+    - thurion.webp
+- Josh Combs <http://freeorion.org>:
+    license: CC-by-sa 3.0
+    bkg:
+    - nebula20.webp
+    - nebula21.webp
+    - nebula22.webp
+    - nebula23.webp
+    - nebula24.webp
+    - nebula25.webp
+    - nebula26.webp
+    - nebula27.webp
+    - nebula28.webp
+    - nebula29.webp
+    - nebula30.webp
+    - nebula31.webp
+    - nebula32.webp
+    - nebula33.webp
+- Galileus:
+    license: CC-by-sa 3.0
+    loading:
+    - rhino_pirate.webp
+    - shark_empire.webp
+    - shark_pirate.webp
+    - shark.webp
+    - rhino.webp
+    ship:
+    - shark
+    - rhino
+    planet:
+      space:
+      - wrath.webp
+- bornloser:
+    license: CC-by-sa 3.0
+    ship:
+    - phalanx
+- Andmiw:
+    license: CC-by-sa 3.0
+    planet:
+      space:
+      - A04.webp
+      - G03.webp
+      - H03.webp
+      - I02.webp
+      - I03.webp
+      - I04.webp
+      - I05.webp
+      - I06.webp
+      - I07.webp
+      - J05.webp
+      - J06.webp
+      - J07.webp
+      - J08.webp
+      - K05.webp
+      - M09.webp
+      - M11.webp
+      - M12.webp
+      - M13.webp
+      - O03.webp
+      - O05.webp
+      - P05.webp
+      - moon-D02.webp
+      - moon-P03.webp
+    bkg:
+      star:
+      - redgiant02.webp
+- Unnamed:
+    license: CC-by-sa 3.0
+    outfit:
+      store:
+      - active_plating.webp
+      - convulsion.webp
+      - convulsion_launcher.webp
+      - core_system_basic_s1.webp
+      - organic_engine_fast_l1.webp
+      - organic_engine_fast_l2.webp
+      - organic_engine_fast_m1.webp
+      - organic_engine_fast_m2.webp
+      - organic_engine_fast_s1.webp
+      - organic_engine_fast_s2.webp
+      - organic_engine_strong_l1.webp
+      - organic_engine_strong_l2.webp
+      - organic_engine_strong_m1.webp
+      - organic_engine_strong_m2.webp
+      - organic_engine_strong_s1.webp
+      - organic_engine_strong_s2.webp
+      - organic_hull_h.webp
+      - organic_hull_l.webp
+      - organic_hull_m.webp
+      - organic_hull_s.webp
+      - organic_hull_t.webp
+      - organic_hull_x.webp
+      - stealth_plating.webp
+      - turreted_convulsion_launcher.webp
+      - weapon01.webp
+      - base_hull_h.webp
+      - base_hull_l.webp
+      - base_hull_m.webp
+      - base_hull_s.webp
+      - base_hull_t.webp
+      - base_hull_x.webp
+      - combat_hull_h.webp
+      - combat_hull_l.webp
+      - combat_hull_m.webp
+      - combat_hull_s.webp
+      - combat_hull_t.webp
+      - combat_hull_x.webp
+      - core_system_basic_l1.webp
+      - core_system_basic_l2.webp
+      - core_system_basic_m2.webp
+      - core_system_cpu_l1.webp
+      - core_system_cpu_l2.webp
+      - core_system_cpu_m1.webp
+      - core_system_cpu_m2.webp
+      - core_system_cpu_s1.webp
+      - core_system_cpu_s2.webp
+      - core_system_power_l1.webp
+      - core_system_power_l2.webp
+      - core_system_power_m1.webp
+      - core_system_power_m2.webp
+      - core_system_power_s1.webp
+      - core_system_power_s2.webp
+      - core_system_refined_l1.webp
+      - core_system_refined_l2.webp
+      - core_system_refined_m1.webp
+      - core_system_refined_m2.webp
+      - core_system_refined_s1.webp
+      - core_system_shield_l1.webp
+      - core_system_shield_l2.webp
+      - core_system_shield_m1.webp
+      - core_system_shield_m2.webp
+      - core_system_shield_s1.webp
+      - core_system_shield_s2.webp
+      - engine10.webp
+      - engine11.webp
+      - engine12.webp
+      - engine13.webp
+      - engine14.webp
+      - engine15.webp
+      - misc02.webp
+      - reactor01.webp
+      - refined_hull_h.webp
+      - refined_hull_l.webp
+      - refined_hull_m.webp
+      - refined_hull_s.webp
+      - refined_hull_t.webp
+      - refined_hull_x.webp
+      - stealth_hull_h.webp
+      - stealth_hull_m.webp
+      - stealth_hull_s.webp
+      - stealth_hull_t.webp
+      - weapon02.webp
+      - cargo_hull_l.webp
+      - cargo_hull_m.webp
+      - cargo_hull_s.webp
+      - engine1.webp
+      - engine2.webp
+      - engine3.webp
+      - engine4.webp
+      - engine5.webp
+      - engine6.webp
+      - engine7.webp
+      - engine8.webp
+      - engine9.webp
+      space:
+      - convulsion.png
+    ship:
+      apprehension:
+      - \*
+      certitude:
+      - \*
+      perspicacity:
+      - \*
+      scintillation:
+      - \*
+      virtuosity:
+      - \*
+      taciturnity:
+      - \*
+- antilope:
+    license: CC-by-sa 3.0
+    planet:
+      space:
+      - H04.webp
+      - J09.webp
+      - M10.webp
+      - moon-X00.webp
+      - O04.webp
+- NASA:
+    license: PD
+    bkg:
+    - nebula02.webp
+    - nebula04.webp
+    - nebula10.webp
+    - nebula12.webp
+    - nebula16.webp
+    - nebula17.webp
+    - nebula19.webp
+    commodity:
+    - water.webp
+- NASA:
+    license: PD (with modifications by PhoenixRiver, License PD)
+    planet:
+      space:
+      - asteroid:
+        - asteroid-D00.webp
+        - asteroid-D01.webp
+        - asteroid-D02.webp
+        - asteroid-D03.webp
+        - asteroid-D04.webp
+        - asteroid-D05.webp
+        - asteroid-D06.webp
+        - asteroid-D07.webp
+        - asteroid-D08.webp
+        - asteroid-D09.webp
+        - asteroid-D10.webp
+        - asteroid-D11.webp
+        - asteroid-D12.webp
+        - asteroid-D13.webp
+        - asteroid-D14.webp
+        - asteroid-D15.webp
+        - asteroid-D16.webp
+        - asteroid-D17.webp
+        - asteroid-D18.webp
+        - asteroid-D19.webp
+        - asteroid-D20.webp
+        - asteroid-D21.webp
+        - asteroid-D22.webp
+        - asteroid-D23.webp
+        - asteroid-D24.webp
+        - asteroid-D25.webp
+        - asteroid-D26.webp
+        - asteroid-D27.webp
+        - asteroid-D28.webp
+        - asteroid-D29.webp
+        - asteroid-D30.webp
+        - asteroid-D31.webp
+        - asteroid-D32.webp
+        - asteroid-D33.webp
+        - asteroid-D34.webp
+        - asteroid-D35.webp
+        - asteroid-D36.webp
+        - asteroid-D37.webp
+        - asteroid-D38.webp
+        - asteroid-D39.webp
+        - asteroid-D40.webp
+        - asteroid-D41.webp
+        - asteroid-D42.webp
+        - asteroid-D43.webp
+        - asteroid-D44.webp
+        - asteroid-D45.webp
+        - asteroid-D46.webp
+        - asteroid-D47.webp
+        - asteroid-D48.webp
+        - asteroid-D49.webp
+        - asteroid-D50.webp
+        - asteroid-D51.webp
+        - asteroid-D52.webp
+        - asteroid-D53.webp
+        - asteroid-D54.webp
+        - asteroid-D55.webp
+        - asteroid-D56.webp
+        - asteroid-D57.webp
+        - asteroid-D58.webp
+        - asteroid-D59.webp
+        - asteroid-D60.webp
+        - asteroid-D61.webp
+        - asteroid-D62.webp
+        - asteroid-D63.webp
+      - D03.webp
+      - D04.webp
+      - D05.webp
+      - D06.webp
+      - D07.webp
+- Bobbens:
+    license: PD (with modifications by PhoenixRiver, License PD)
+    planet:
+      exterior:
+      - asteroid.webp
+      space:
+      - moon-D00.webp
+- ESA:
+    license: PD
+    planet:
+      exterior:
+      - uninhabited-rocky-airless-00.webp
+      - uninhabited-rocky-airless-01.webp
+      - uninhabited-rocky-airless-02.webp
+      - uninhabited-rocky-airless-03.webp
+      - uninhabited-rocky-airless-04.webp
+- ESA:
+    license: PD (with modifications by PhoenixRiver, License PD)
+    planet:
+      exterior:
+      - uninhabited-rocky-red-00.webp
+      - uninhabited-rocky-red-01.webp
+      - uninhabited-rocky-red-02.webp
+      - uninhabited-rocky-red-03.webp
+      - uninhabited-rocky-red-04.webp
+      - uninhabited-rocky-blue-00.webp
+      - uninhabited-rocky-blue-01.webp
+      - uninhabited-rocky-blue-02.webp
+      - uninhabited-rocky-blue-03.webp
+      - uninhabited-rocky-blue-04.webp
+      - uninhabited-rocky-cyan-00.webp
+      - uninhabited-rocky-cyan-01.webp
+      - uninhabited-rocky-cyan-02.webp
+      - uninhabited-rocky-cyan-03.webp
+      - uninhabited-rocky-cyan-04.webp
+      - uninhabited-rocky-green-00.webp
+      - uninhabited-rocky-green-01.webp
+      - uninhabited-rocky-green-02.webp
+      - uninhabited-rocky-green-03.webp
+      - uninhabited-rocky-green-04.webp
+      - uninhabited-rocky-yellow-00.webp
+      - uninhabited-rocky-yellow-01.webp
+      - uninhabited-rocky-yellow-02.webp
+      - uninhabited-rocky-yellow-03.webp
+      - uninhabited-rocky-yellow-04.webp
+      - uninhabited-rocky-magenta-00.webp
+      - uninhabited-rocky-magenta-01.webp
+      - uninhabited-rocky-magenta-02.webp
+      - uninhabited-rocky-magenta-03.webp
+      - uninhabited-rocky-magenta-04.webp
+- Écrivain <https://opengameart.org/users/%C3%A9crivain>:
+    license: CC0
+    overlays:
+    - rarity_6.webp
+- AstroMenace (Viewizard):
+    license: GPLv3
+    outfit:
+      store:
+      - thruster.webp
+- Ingo Ruhnke <grumbel@gmx.de>:
+    license: GPLv3
+    portraits:
+    - none.webp
+    - unknown.webp
+    logo:
+    - dvaered.webp
+    - goddard.webp
+    - sirius.webp
+- Viktor Hahn, based on Grumbel and FreeSeamlessTextures.com work:
+    license: CC-by-SA 3.0
+    logo:
+    - empire.webp
+    - zalek.webp
+- Nihilos <https://opengameart.org/users/nihilos>:
+    license: CC-by 3.0 (based on portraits by Ingo Ruhnke <grumbel@gmx.de>)
+    portraits:
+      dvaered:
+      - unique:
+        - ka'def.webp
+        - vicious.webp
+        - zolo.webp
+      - dv_civilian_f1.webp
+      - dv_civilian_f2.webp
+      - dv_general1.webp
+      - dv_military_m1.webp
+      - dv_military_m2.webp
+      - dv_military_m3.webp
+      - dv_military_f1.webp
+      - dv_military_f2.webp
+      empire:
+      - unique:
+        - czesc.webp
+        - dimitri.webp
+        - keer.webp
+        - soldner.webp
+      - empire_mil_f1.webp
+      - empire_mil_m1.webp
+      - empire_mil_m2.webp
+      - empire_mil_m3.webp
+      flf:
+        unique:
+        - benito.webp
+      neutral:
+      - unique:
+        - aristocrat.webp
+        - drunkard.webp
+        - flintley.webp
+        - hunter.webp
+        - jorek.webp
+        - mia.webp
+        - neil.webp
+        - oldwoman.webp
+        - rebina.webp
+        - rebina_casual.webp
+        - reynir.webp
+        - reynir2.webp
+        - youngbusinessman.webp
+        - youngbusinessman2.webp
+      - barman.webp
+      - cyborg1.webp
+      - cyborg2.webp
+      - cyborg3.webp
+      - female1.webp
+      - male1.webp
+      - miner1.webp
+      - miner2.webp
+      - scientist.webp
+      - scientist2.webp
+      - scientist3.webp
+      - thief1.webp
+      - thief2.webp
+      - thief3.webp
+      pirate:
+      - pirate_militia1.webp
+      - pirate_militia2.webp
+      - pirate1.webp
+      - pirate2.webp
+      - pirate3.webp
+      - pirate4.webp
+      sirius:
+      - unique:
+        - harja.webp
+        - joanne.webp
+        - patrek.webp
+      - sirius_fyrra_f1.webp
+      - sirius_fyrra_f2.webp
+      - sirius_fyrra_m1.webp
+- The Diligent Circle, based on components by Nihilos:
+    license: CC-by 3.0
+    portraits:
+      dvaered:
+      - dv_civilian_f3.webp
+      - dv_civilian_f4.webp
+      - dv_civilian_f5.webp
+      - dv_civilian_f6.webp
+      - dv_civilian_f7.webp
+      - dv_civilian_f8.webp
+      - dv_civilian_f9.webp
+      - dv_civilian_f10.webp
+      - dv_civilian_f11.webp
+      - dv_civilian_m1.webp
+      - dv_civilian_m2.webp
+      - dv_civilian_m3.webp
+      - dv_civilian_m4.webp
+      - dv_civilian_m5.webp
+      - dv_civilian_m6.webp
+      - dv_civilian_m7.webp
+      - dv_civilian_m8.webp
+      - dv_civilian_m9.webp
+      - dv_civilian_m10.webp
+      - dv_civilian_m11.webp
+      - dv_military_f3.webp
+      - dv_military_f4.webp
+      - dv_military_f5.webp
+      - dv_military_f6.webp
+      - dv_military_f7.webp
+      - dv_military_f8.webp
+      - dv_military_m4.webp
+      - dv_military_m5.webp
+      - dv_military_m6.webp
+      - dv_military_m7.webp
+      - dv_military_m8.webp
+      empire:
+      - empire_mil_f2.webp
+      - empire_mil_f3.webp
+      - empire_mil_f4.webp
+      - empire_mil_f5.webp
+      - empire_mil_m4.webp
+      - empire_mil_m5.webp
+      - empire_mil_m6.webp
+      - empire_mil_m7.webp
+      - empire_mil_m8.webp
+      neutral:
+      - unique:
+        - arnoldsmith.webp
+        - cynthia.webp
+        - cynthia_father.webp
+        - dealer.webp
+        - fakesister.webp
+        - laidback.webp
+        - michal.webp
+        - middleaged.webp
+        - nexus_agent.webp
+        - paddy.webp
+        - shifty_merchant.webp
+        - unfamiliarman.webp
+      - female2.webp
+      - female3.webp
+      - female4.webp
+      - female5.webp
+      - female6.webp
+      - female7.webp
+      - female8.webp
+      - female9.webp
+      - female10.webp
+      - female11.webp
+      - female12.webp
+      - female13.webp
+      - male2.webp
+      - male3.webp
+      - male4.webp
+      - male5.webp
+      - male6.webp
+      - male7.webp
+      - male8.webp
+      - male9.webp
+      - male10.webp
+      - male11.webp
+      - male12.webp
+      - male13.webp
+      - thief4.webp
+      pirate:
+      - pirate5.webp
+      - pirate6.webp
+      - pirate7.webp
+      - pirate8.webp
+      - pirate9.webp
+      - pirate10.webp
+      - pirate11.webp
+      - pirate12.webp
+      - pirate13.webp
+      - pirate14.webp
+      sirius:
+      - unique:
+        - draga.webp
+        - rodentman.webp
+        - shaman.webp
+        - strangeman.webp
+      - sirius_fyrra_f3.webp
+      - sirius_fyrra_f4.webp
+      - sirius_fyrra_f5.webp
+      - sirius_fyrra_m2.webp
+      - sirius_fyrra_m3.webp
+      - sirius_fyrra_m4.webp
+      - sirius_fyrra_m5.webp
+      - sirius_shiara_f1.webp
+      - sirius_shiara_f2.webp
+      - sirius_shiara_f3.webp
+      - sirius_shiara_f4.webp
+      - sirius_shiara_f5.webp
+      - sirius_shiara_m1.webp
+      - sirius_shiara_m2.webp
+      - sirius_shiara_m3.webp
+      - sirius_shiara_m4.webp
+      - sirius_shiara_m5.webp
+      soromid:
+        unique:
+        - chelsea.webp
+      zalek:
+        unique:
+        - geller.webp
+        - logan.webp
+- Viktor Hahn, based on components by Nihilos:
+    license: CC-by 3.0
+    portraits:
+      zalek:
+        unique:
+        - mensing.webp
+        - student.webp
+- Scaatis:
+    license: CC-by 3.0
+    portraits:
+    - news.webp
+    gui:
+    - brushed:
+      - A.png
+      - barBg.webp
+      - barFrame.png
+      - barFrameLight.png
+      - beam.png
+      - bottombar.png
+      - button.png
+      - buttonDis.png
+      - buttonHil.png
+      - buttonHil2.png
+      - buttonPre.png
+      - endRight.png
+      - extRight.png
+      - fieldBg.png
+      - fieldBgCenter1.webp
+      - fieldBgCenter2.webp
+      - fieldBgLeft1.png
+      - fieldBgRight1.png
+      - fieldBgRight2.png
+      - fieldFrameCenter.png
+      - fieldFrameLeft.png
+      - fieldFrameRight.png
+      - iconArmour.png
+      - iconCargo.webp
+      - iconEnergy.webp
+      - iconFuel.png
+      - iconMissions.png
+      - iconMoney.png
+      - iconNavTarg.png
+      - iconPntTarg.png
+      - iconShield.png
+      - iconShip.png
+      - iconWeaps.png
+      - ion.png
+      - kinetic.png
+      - laser.png
+      - light.png
+      - lock.webp
+      - lockon.png
+      - lockonCircle.png
+      - main.png
+      - missile.png
+      - nuclear.png
+      - pilotFrame.png
+      - planet_image.png
+      - plasma.png
+      - popupBottom.png
+      - projectile.png
+      - question.png
+      - radar_planet.png
+      - radar_ship.png
+      - refireCircle.png
+      - speedOff.webp
+      - speedOn.png
+      - store.png
+      - targetBg.png
+      - targetFrame.png
+      - tooltipEmpty.webp
+      - tooltipRight.webp
+      - tooltipRightBottom.webp
+      - tooltipRightSideLeft.png
+      - tooltipRightTop.webp
+      - topbar.png
+      - topbarCenter.png
+      - weapon1.png
+      - weapon2.png
+    - slim
+    - slimv2
+- Camilo Polymeris <cpolymeris@gmx.net>:
+    license: GPLv3
+    gui:
+      legacy:
+      - minimal.png
+      - minimal_fuel.png
+      - minimal_energy.png
+- The Diligent Circle, based on work by Scaatis:
+    license: CC-by 3.0
+    gui:
+      brushed:
+      - frame_planet_bottom.png
+      - frame_planet_middle.png
+      - frame_planet_top.png
+      - outfit.png
+      - speedDouble.png
+- Unnamed <https://opengameart.org/users/unnamed>:
+    license: CC-by 3.0
+    intro:
+    - faster_than_light.webp
+    - first_steps_into_space.webp
+- The Diligent Circle (based on work by Unnamed <https://opengameart.org/users/unnamed> and Ingo Ruhnke):
+    license: GPLv3
+    intro:
+    - reign_of_daedris.webp
+- The Diligent Circle (based on work by ShinyOgre <https://opengameart.org/users/shinyogre> and Vega Strike):
+    license: GPLv3
+    intro:
+    - questions.webp
+- Mutos:
+    license: CC-by 3.0
+    commodity:
+    - _default.webp
+- admiral_cheater:
+    license: CC-by 3.0
+    outfit:
+      space:
+      - fury.png
+- Steve Jurvetson <https://www.flickr.com/photos/jurvetson/156830367/>:
+    license: CC-by 2.0
+    commodity:
+    - diamonds.webp
+- Ivar Leidus:
+    license: CC-by-SA 4.0
+    commodity:
+    - ore.webp
+- Bicanski <https://pixnio.com/author/bicanski>:
+    license: CC0
+    commodity:
+    - medicine.webp
+- miheco <https://www.flickr.com/photos/miheco/>:
+    license: CC-by-SA 2.0
+    commodity:
+    - seaweed.webp
+- W. R. van Hage <http://www.xs4all.nl/~wrvh/galaxymap/>:
+    license: CC-by-sa 3.0
+    outfit:
+      store:
+      - map.webp
+- Kurayba <https://www.flickr.com/photos/kurt-b/26178344823>:
+    license: CC-by-sa 2.0
+    outfit:
+      store:
+      - reroute.webp
+- nenau:
+    license: GPLv3+
+    commodity:
+      space:
+      - flowers.webp
+    logo:
+    - miner.webp
+- qubodup <https://openclipart.org/artist/qubodup>:
+    license: PD
+    overlays:
+    - portrait_exclamation.webp
