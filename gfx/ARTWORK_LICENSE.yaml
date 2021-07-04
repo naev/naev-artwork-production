@@ -737,6 +737,12 @@
       - engine7.webp
       - engine8.webp
       - engine9.webp
+      - organic_core_l1.webp
+      - organic_core_l2.webp
+      - organic_core_m1.webp
+      - organic_core_m2.webp
+      - organic_core_s1.webp
+      - organic_core_s2.webp
       space:
       - convulsion.png
     ship:
