@@ -370,6 +370,7 @@
     outfit:
       store:
       - bansheelauncher.webp
+      - grenadelauncher.webp
       space:
       - empgrenade.png
       - banshee.png
