@@ -403,6 +403,7 @@
       - railgunturret.webp
       - hellburner.webp
       - fueltank.webp
+      - medium_fuel_pod.webp
     ship:
     - peacemaker
     loading:
