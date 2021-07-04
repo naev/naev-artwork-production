@@ -400,6 +400,8 @@
       - ripper.webp
       - ripperturret.webp
       - railgunturret.webp
+      - hellburner.webp
+      - fueltank.webp
     ship:
     - peacemaker
     loading:
@@ -723,6 +725,18 @@
       - stealth_hull_s.webp
       - stealth_hull_t.webp
       - weapon02.webp
+      - cargo_hull_l.webp
+      - cargo_hull_m.webp
+      - cargo_hull_s.webp
+      - engine1.webp
+      - engine2.webp
+      - engine3.webp
+      - engine4.webp
+      - engine5.webp
+      - engine6.webp
+      - engine7.webp
+      - engine8.webp
+      - engine9.webp
       space:
       - convulsion.png
     ship:
