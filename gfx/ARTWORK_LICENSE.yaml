@@ -743,6 +743,9 @@
       - organic_core_m2.webp
       - organic_core_s1.webp
       - organic_core_s2.webp
+      - core_system_basic_s2.webp
+      - core_system_refined_s2.webp
+      - misc04.webp
       space:
       - convulsion.png
     ship:
