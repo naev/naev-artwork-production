@@ -1285,3 +1285,8 @@
     license: PD
     overlays:
     - portrait_exclamation.webp
+- Basse <https://gitlab.com/freedroid/freedroid-graphics/-/blob/master/droids/329/portrait_329.blend>:
+    license: GPLv2+
+    outfit:
+      store:
+      - droid.webp
