@@ -137,6 +137,7 @@
       - capacitor-g.webp
       - capacitor2-g.webp
       - capacitor4-g.webp
+      - drone_fighter.webp
 - Bobbens:
     license: CC-by-sa 4.0
     vn:
@@ -501,6 +502,9 @@
     - proteron.webp
     - soromid.webp
     - trader.webp
+    outfit:
+      store:
+      - fidelity_fighter.webp
 - BTAxis:
     license: PD
     planet:
