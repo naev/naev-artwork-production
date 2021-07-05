@@ -138,6 +138,7 @@
       - capacitor2-g.webp
       - capacitor4-g.webp
       - drone_fighter.webp
+      - neutronheavy.webp
 - Bobbens:
     license: CC-by-sa 4.0
     vn:
@@ -353,6 +354,8 @@
       space:
       - headhunter.png
       - mace.png
+      store:
+      - macelauncher.webp
 - Justin Nichol <http://justinnichol.wordpress.com/>:
     license: CC-by 3.0
     planet:
@@ -409,6 +412,8 @@
       - hellburner.webp
       - fueltank.webp
       - medium_fuel_pod.webp
+      - laser2.webp
+      - plasma2.webp
     ship:
     - peacemaker
     loading:
@@ -453,6 +458,9 @@
       - biometal.webp
       - caesar.webp
       - apu.webp
+      - seekerlauncher.webp
+      - headhunterlauncher.webp
+      - caesarlauncher.webp
       space:
       - gatling.png
       - autocannon.png
@@ -757,6 +765,7 @@
       - core_system_basic_s2.webp
       - core_system_refined_s2.webp
       - misc04.webp
+      - core_system_basic_m1.webp
       space:
       - convulsion.png
     ship:
@@ -1258,6 +1267,10 @@
     outfit:
       space:
       - fury.png
+      store:
+      - unicorp_fury_launcher.webp
+      - teracom_fury_launcher.webp
+      - turreted_fury_launcher.webp
 - Steve Jurvetson <https://www.flickr.com/photos/jurvetson/156830367/>:
     license: CC-by 2.0
     commodity:
@@ -1306,3 +1319,35 @@
     outfit:
       store:
       - large_fuel_pod.webp
+- AstroMenace <https://viewizard.com/>:
+    license: GPLv3
+    outfit:
+      store:
+      - accuracy_forward.webp
+      - accuracy_forward_3.webp
+      - accuracy_turret.webp
+- Kristian Mølhave:
+    license: CC-by 3.0
+    outfit:
+      store:
+      - nanobond.webp
+- SolCommand <http://solcommand.com>:
+    license: CC-by 3.0
+    outfit:
+      store:
+      - gaussgun.webp
+      - gaussturret.webp
+      - shredder.webp
+      - vulcangun.webp
+      - vulcanturret.webp
+- Ian D. Scott <ids1024>:
+    license: PD
+    outfit:
+      store:
+      - plating_patchwork.webp
+- Ian D. Scott <ids1024>:
+    license: GPLv2+
+    outfit:
+      store:
+      - lancelot_fighter_bay.webp
+      - lancelot_empire_fighter_bay.webp
