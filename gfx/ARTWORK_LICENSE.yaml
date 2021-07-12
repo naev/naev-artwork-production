@@ -147,8 +147,10 @@
       - drshrimp.png
       - dvaered_thug1.png
       - maikki.png
+      - maikki_pirate.webp
       - minerva_terminal.png
-      - minervaceo.png
+      - minervaceo.webp
+      - minervamole.webp
       - misi.png
       - old_man.png
       - scavenger1.png
@@ -157,6 +159,7 @@
       - zalek2.png
       - zalek3.png
       - zalek_thug1.png
+      - zuri.webp
     outfit:
       store:
       - love_letter.webp
