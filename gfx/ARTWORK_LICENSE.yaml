@@ -208,17 +208,23 @@
       - zalek_station1.webp
       - zalek_station2.webp
       space:
+      - hypergate_damaged.webp
+      - hypergate_destroyed.webp
       - hypergate_dvaered_activated.webp
       - hypergate_dvaered_deactivated.webp
+      - hypergate_early_construction_stage.webp
       - hypergate_empire_activated.webp
       - hypergate_empire_deactivated.webp
       - hypergate_mask.webp
+      - hypergate_neutral_activated.webp
+      - hypergate_neutral_deactivated.webp
       - hypergate_proteron_activated.webp
       - hypergate_proteron_deactivated.webp
       - hypergate_sirius_activated.webp
       - hypergate_sirius_deactivated.webp
       - hypergate_soromid_activated.webp
       - hypergate_soromid_deactivated.webp
+      - hypergate_under_construction.webp
       - hypergate_zalek_activated.webp
       - hypergate_zalek_deactivated.webp
       - zalek_station1.webp
