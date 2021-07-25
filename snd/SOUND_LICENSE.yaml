@@ -224,3 +224,7 @@
     - beam_fuzzy_off.ogg
     - beam_wave.ogg
     - beam_wave_off.ogg
+- jacksonacademyashmore:
+    license: CC0
+    sounds:
+    - alarm_warning.ogg (https://freesound.org/people/jacksonacademyashmore/sounds/563775/)
