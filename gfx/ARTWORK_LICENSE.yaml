@@ -188,6 +188,8 @@
       - hive_combat_ai.webp
       - hunting_combat_ai.webp
       - hyperbolic_blink_engine.webp
+      - krain_patagium_engine.webp
+      - krain_remige_engine.webp
       - lattice_thermal_coating.webp
       - milspec_impactoplastic_coating.webp
       - neural_accelerator_interface.webp
@@ -230,6 +232,9 @@
       - hypergate_zalek_deactivated.webp
       - zalek_station1.webp
       - zalek_station2.webp
+    ship:
+      starbridge:
+      - \*
 - Sean Hildebrand (modified by Areze):
     license: CC-by 3.0
     outfit:
