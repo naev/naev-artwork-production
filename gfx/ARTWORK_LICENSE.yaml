@@ -193,10 +193,16 @@
       - lattice_thermal_coating.webp
       - milspec_impactoplastic_coating.webp
       - neural_accelerator_interface.webp
+      - nexus_engine_l.webp
+      - nexus_engine_m.webp
+      - nexus_engine_s.webp
       - nexus_stealth_coating.webp
       - photovoltaic_nanobot_coating.webp
       - pinpoint_combat_ai.webp
       - scanning_combat_ai.webp
+      - unicorp_engine_l.web
+      - unicorp_engine_m.web
+      - unicorp_engine_s.web
     planet:
       exterior:
       - citadel.webp
