@@ -189,13 +189,21 @@
       - hive_combat_ai.webp
       - hunting_combat_ai.webp
       - hyperbolic_blink_engine.webp
+      - krain_patagium_engine.webp
+      - krain_remige_engine.webp
       - lattice_thermal_coating.webp
       - milspec_impactoplastic_coating.webp
       - neural_accelerator_interface.webp
+      - nexus_engine_l.webp
+      - nexus_engine_m.webp
+      - nexus_engine_s.webp
       - nexus_stealth_coating.webp
       - photovoltaic_nanobot_coating.webp
       - pinpoint_combat_ai.webp
       - scanning_combat_ai.webp
+      - unicorp_engine_l.web
+      - unicorp_engine_m.web
+      - unicorp_engine_s.web
     planet:
       exterior:
       - citadel.webp
@@ -231,6 +239,9 @@
       - hypergate_zalek_deactivated.webp
       - zalek_station1.webp
       - zalek_station2.webp
+    ship:
+      starbridge:
+      - \*
 - Sean Hildebrand (modified by Areze):
     license: CC-by 3.0
     outfit:
