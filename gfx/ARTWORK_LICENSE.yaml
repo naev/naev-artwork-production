@@ -439,7 +439,6 @@
       - laserturret2.webp
       - ioncannon.webp
       - ionturret.webp
-      - plasma.webp
       - ragnarok.webp
       - railgun.webp
       - orion.webp
@@ -450,7 +449,6 @@
       - fueltank.webp
       - medium_fuel_pod.webp
       - laser2.webp
-      - plasma2.webp
     ship:
     - peacemaker
     loading:
@@ -462,6 +460,15 @@
     license: CC-by 3.0
     ship:
     - kestrel
+- Josiah Schwartfeger, modified by Viktor Hahn:
+    license: CC-by 3.0
+    outfit:
+      store:
+      - plasma.webp
+      - plasma2.webp
+      - plasma_cannon.webp
+      - plasma_turret.webp
+      - plasma_turret2.webp
 - Renderwahn:
     license: CC-by 3.0
     spfx:
