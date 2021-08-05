@@ -349,6 +349,7 @@
     license: CC-by-sa 3.0
     overlays:
     - active.webp
+    - favourite.webp
 - Bobbens:
     license: PD
     outfit:
