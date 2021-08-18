@@ -24,8 +24,8 @@ function copy_over {
       cp "${ARTWORK_PATH}/3D/final/$1_comm.webp" "$2_comm.webp"
    fi
    if [ -d "${ARTWORK_PATH}/3D/3d/$1" ]; then
-      mkdir -p 3d/"$(dirname $2)"
-      cp "${ARTWORK_PATH}/3D/3d/$1"/* 3d/"$(dirname $2)"/
+      mkdir -p 3d/"$2"
+      cp "${ARTWORK_PATH}/3D/3d/$1"/* 3d/"$2"/
    fi
 }
 
