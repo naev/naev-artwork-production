@@ -3,18 +3,30 @@
 #
 #   Variables
 #
-ARTWORK_PATH="../../../naev-artwork/"
+if [ -d "../../../../naev-artwork" ]; then
+   ARTWORK_PATH="../../../../naev-artwork"
+else
+   ARTWORK_PATH="../../../naev-artwork"
+fi
 
 
 #
 #   Copy them all over
 #
-ARTWORK_PATH=$ARTWORK_PATH"3D/final/"
-
 function copy_over {
-   cp "${ARTWORK_PATH}$1.webp" "$2.webp"
-   cp "${ARTWORK_PATH}$1_engine.webp" "$2_engine.webp"
-   cp "${ARTWORK_PATH}$1_comm.webp" "$2_comm.webp"
+   if [ -f "${ARTWORK_PATH}/3D/final/$1.webp" ]; then
+      cp "${ARTWORK_PATH}/3D/final/$1.webp" "$2.webp"
+   fi
+   if [ -f "${ARTWORK_PATH}/3D/final/$1_engine.webp" ]; then
+      cp "${ARTWORK_PATH}/3D/final/$1_engine.webp" "$2_engine.webp"
+   fi
+   if [ -f "${ARTWORK_PATH}/3D/final/$1_comm.webp" ]; then
+      cp "${ARTWORK_PATH}/3D/final/$1_comm.webp" "$2_comm.webp"
+   fi
+   if [ -d "${ARTWORK_PATH}/3D/3d/$1" ]; then
+      mkdir -p 3d/"$(dirname $2)"
+      cp "${ARTWORK_PATH}/3D/3d/$1"/* 3d/"$(dirname $2)"/
+   fi
 }
 
 # A few are missing:
