@@ -25,3 +25,19 @@
    license: |
       Copyright 2010-2019 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe in the United States and/or other countries.
       This Font Software is licensed under the SIL Open Font License, Version 1.1.
+- IBMPlexSansJP-Medium.otf:
+   license: |
+      Copyright: 2017 IBM Corp.
+      License: OFL-1.1
+      Copyright © 2017 IBM Corp. with Reserved Font Name "Plex"
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.
+      Suorce: https://github.com/IBM/plex/releases/tag/v5.2.1
+- SpaceBar.ttf:
+   license: |
+      Copyright: 2018-2021 OOTA, Masato
+                 2006, 2009 Google Corp.
+      License: Apache-2
+      Copyright © 2018-2021 OOTA, Masato
+      This font is derived from DroidSansFallback and DroidSansJapanese,
+      whose digitized data copyright Google Corporation (c) 2006, 2009
+      Droid is a trademark of Google Corp.
