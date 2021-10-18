@@ -228,3 +228,17 @@
     license: CC0
     sounds:
     - alarm_warning.ogg (https://freesound.org/people/jacksonacademyashmore/sounds/563775/)
+- Mafon2:
+    license: CC0
+    sounds:
+    - meow.ogg (https://freesound.org/people/Mafon2/sounds/436541/)
+- newlocknew:
+    license: CC-by 3.0
+    sounds:
+    - spaceship_door_open.ogg (https://freesound.org/people/newlocknew/sounds/546922/)
+    - spaceship_door_close.ogg (https://freesound.org/people/newlocknew/sounds/546922/)
+- MATRIXXX_:
+    license: CC-by 3.0
+    sounds:
+    - loops:
+      - derelict.ogg (https://freesound.org/people/MATRIXXX_/sounds/396542/)
