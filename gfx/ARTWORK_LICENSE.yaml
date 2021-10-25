@@ -1407,3 +1407,7 @@
       store:
       - lancelot_fighter_bay.webp
       - lancelot_empire_fighter_bay.webp
+- Peon:
+    license: CC-by-sa 4.0
+    logo:
+    - blacklotus.webp
