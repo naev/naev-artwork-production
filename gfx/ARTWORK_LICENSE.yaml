@@ -993,14 +993,13 @@
     portraits:
     - none.webp
     - unknown.webp
-    logo:
-    - dvaered.webp
-    - goddard.webp
-    - sirius.webp
 - Viktor Hahn, based on Grumbel and FreeSeamlessTextures.com work:
     license: CC-by-SA 3.0
     logo:
+    - dvaered.webp
     - empire.webp
+    - goddard.webp
+    - sirius.webp
     - zalek.webp
 - Nihilos <https://opengameart.org/users/nihilos>:
     license: CC-by 3.0 (based on portraits by Ingo Ruhnke <grumbel@gmx.de>)
