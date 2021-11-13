@@ -163,6 +163,29 @@
       - zalek3.png
       - zalek_thug1.png
       - zuri.webp
+      - verner.webp
+    portraits:
+      - blackcat.webp
+      - cyborg_chicken.png
+      - drshrimp.png
+      - dvaered_thug1.png
+      - major_malik.webp
+      - maikki.png
+      - maikki_pirate.webp
+      - minerva_terminal.png
+      - minervaceo.webp
+      - minervamole.webp
+      - misi.png
+      - old_man.png
+      - scavenger1.png
+      - shiplover.webp
+      - strangelove.png
+      - zalek1.png
+      - zalek2.png
+      - zalek3.png
+      - zalek_thug1.png
+      - zuri.webp
+      - verner.webp
     outfit:
       store:
       - love_letter.webp
