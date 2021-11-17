@@ -1442,3 +1442,43 @@
     logo:
     - ravenclan.webp
     - marauder.webp
+- "X-ray: NASA/CXC/SAO/F.Seward; Optical: NASA/ESA/ASU/J.Hester & A.Loll; Infrared: NASA/JPL-Caltech/Univ. Minn./R.Gehrz (made transparent by bobbens)":
+    license: PD
+    bkg:
+      nebula:
+      - crab.webp
+- "NASA, ESA, HEIC, and The Hubble Heritage Team (STScI/AURA) (made transparent by bobbens)":
+    license: CC-by 4.0
+    bkg:
+      nebula:
+      - cats_eye.webp
+- "NASA, ESA and the Hubble SM4 ERO Team (made transparent by bobbens)":
+    license: CC-by 4.0
+    bkg:
+      nebula:
+      - butterfly.webp
+- "NASA, ESA, and C. Robert O’Dell (Vanderbilt University) (made transparent by bobbens)":
+    license: CC-by 4.0
+    bkg:
+      nebula:
+      - messier.webp
+- "NASA, ESA, Andrew Fruchter (STScI), and the ERO team (STScI + ST-ECF) (made transparent by bobbens)":
+    license: CC-by 4.0
+    bkg:
+      nebula:
+      - ncg-2392.webp
+- "NASA/ESA and The Hubble Heritage Team (AURA/STScI) (made transparent by bobbens)":
+    license: CC-by 4.0
+    bkg:
+      nebula:
+      - ncg-2440.webp
+- "NASA, ESA, and K. Noll (STScI) (made transparent by bobbens)":
+    license: CC-by 4.0
+    bkg:
+      nebula:
+      - ncg-2440-2.webp
+- "S. Lipinski/NASA & ESA (made transparent by bobbens)":
+    license: CC-by 4.0
+    bkg:
+      nebula:
+      - cats_paw.webp
