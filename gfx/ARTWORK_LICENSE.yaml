@@ -269,6 +269,10 @@
       - zalek_station1.webp
       - zalek_station2.webp
     ship:
+      arsenal:
+      - \*
+      mammon:
+      - \*
       rainmaker:
       - \*
       starbridge:
