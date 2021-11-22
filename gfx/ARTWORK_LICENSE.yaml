@@ -190,7 +190,7 @@
       store:
       - love_letter.webp
       - fuzzy_dice.webp
-- Fernando L. Copercini \"Bisc88\" <fernandoluis1732@yahoo.com.br>:
+- Fernando L. Copercini "Bisc88" <fernandoluis1732@yahoo.com.br>:
     license: GPLv3+
     planet:
       exterior:
@@ -303,7 +303,7 @@
       - star_of_valor.webp
       - pentagram_of_valor.webp
       - tesla.webp
-- M. R. Bokhari \"Viruk\" <withextremeprejudice@gmail.com>:
+- M. R. Bokhari "Viruk" <withextremeprejudice@gmail.com>:
     license: CC-by-sa 3.0
     loading:
     - sting.webp
@@ -372,7 +372,7 @@
     license: PD
     misc:
     - crimson_gauntlet.webp
-- Edgar Simo-Serra \"bobbens\" (based on work by knik1985 <https://opengameart.org/users/knik1985>):
+- Edgar Simo-Serra "bobbens" (based on work by knik1985 <https://opengameart.org/users/knik1985>):
     license: CC-by 3.0
     overlays:
     - rarity_1.webp
@@ -380,7 +380,7 @@
     - rarity_3.webp
     - rarity_4.webp
     - rarity_5.webp
-- Edgar Simo-Serra \"bobbens\" (based on work by GNOME PROJECT):
+- Edgar Simo-Serra "bobbens" (based on work by GNOME PROJECT):
     license: CC-by-sa 3.0
     overlays:
     - active.webp
