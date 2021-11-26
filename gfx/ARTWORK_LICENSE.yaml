@@ -1470,19 +1470,24 @@
     license: CC-by 4.0
     bkg:
       nebula:
-      - ncg-2392.webp
+      - ngc-2392.webp
 - "NASA/ESA and The Hubble Heritage Team (AURA/STScI) (made transparent by bobbens)":
     license: CC-by 4.0
     bkg:
       nebula:
-      - ncg-2440.webp
+      - ngc-2440.webp
 - "NASA, ESA, and K. Noll (STScI) (made transparent by bobbens)":
     license: CC-by 4.0
     bkg:
       nebula:
-      - ncg-2440-2.webp
+      - ngc-2440-2.webp
 - "S. Lipinski/NASA & ESA (made transparent by bobbens)":
     license: CC-by 4.0
     bkg:
       nebula:
       - cats_paw.webp
+- "ESA/Hubble and NASA (made transparent by bobbens)":
+    license: PD
+    bkg:
+      nebula:
+      - ngc-6210.webp
