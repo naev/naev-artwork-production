@@ -190,6 +190,8 @@
       store:
       - love_letter.webp
       - fuzzy_dice.webp
+    map:
+    - blackhole.webp
 - Fernando L. Copercini "Bisc88" <fernandoluis1732@yahoo.com.br>:
     license: GPLv3+
     planet:
