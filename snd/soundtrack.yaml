@@ -42,6 +42,10 @@
   filename: combat3.ogg
 - name: Meeting MtFox
   filename: meeting_mtfox.ogg
+- name: There will be Stars
+  filename: therewillbestars.ogg
+- name: 78 Pulse
+  filename: 78pulse.ogg
 
 # Landing
 - name: Agricultural Planet
