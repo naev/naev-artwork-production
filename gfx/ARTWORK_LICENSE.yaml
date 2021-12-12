@@ -1493,3 +1493,28 @@
     bkg:
       nebula:
       - ngc-6210.webp
+- Brickset <https://www.flickr.com/people/brickset>:
+    license: CC-by 2.0
+    outfit:
+      store:
+      - satellite_mockup.webp
+- Glitch <https://openclipart.org/artist/glitch>:
+    license: CC0
+    outfit:
+      store:
+      - racing_trophy.webp
+- LJ_Dude:
+    license: GPLv3+
+    outfit:
+      store:
+      - freaky_statue.webp
+- Melissa Doroquez:
+    license: CC-by-SA 2.0
+    outfit:
+      store:
+      - swamp_bombing.webp
+- ossidiana <https://openclipart.org/artist/ossidiana>:
+    license: CC0
+    outfit:
+      store:
+      - black_cat_doll.webp
