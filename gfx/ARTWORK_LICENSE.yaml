@@ -138,7 +138,10 @@
       - capacitor2-g.webp
       - capacitor4-g.webp
       - drone_fighter.webp
+      - hyena_fighter.webp
+      - lancelot_fighter.webp
       - neutronheavy.webp
+      - proteron_derivative_fighter.webp
 - bobbens:
     license: CC-by-sa 4.0
     vn:
@@ -310,6 +313,9 @@
     loading:
     - sting.webp
     - diablo.webp
+    outfit:
+      store:
+      - soromid_brigand_fighter.webp
     planet:
       space:
       - zalek_hq.webp
@@ -827,6 +833,7 @@
       - stealth_hull_m.webp
       - stealth_hull_s.webp
       - stealth_hull_t.webp
+      - thurion_perspicacity_fighter.webp
       - weapon02.webp
       - cargo_hull_l.webp
       - cargo_hull_m.webp
@@ -1431,12 +1438,6 @@
     outfit:
       store:
       - plating_patchwork.webp
-- Ian D. Scott <ids1024>:
-    license: GPLv2+
-    outfit:
-      store:
-      - lancelot_fighter_bay.webp
-      - lancelot_empire_fighter_bay.webp
 - Peon:
     license: CC-by-sa 4.0
     logo:
