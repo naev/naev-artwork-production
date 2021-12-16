@@ -1570,3 +1570,8 @@
     outfit:
       store:
       - black_cat_doll.webp
+- Sudbury Neutrino Observatory:
+    license: CC-by-SA 4.0
+    outfit:
+      store:
+      - SNO_detector.webp
