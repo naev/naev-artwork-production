@@ -288,6 +288,11 @@
       - \*
       starbridge:
       - \*
+- Justin Blanchard, based on work from Viktor Hahn:
+    license: CC-by 4.0
+    outfit:
+      store:
+      - nebula_resistant_coating.webp
 - Sean Hildebrand (modified by Areze):
     license: CC-by 3.0
     outfit:
