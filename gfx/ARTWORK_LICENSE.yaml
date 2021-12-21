@@ -241,9 +241,12 @@
       - photovoltaic_nanobot_coating.webp
       - pinpoint_combat_ai.webp
       - scanning_combat_ai.webp
-      - unicorp_engine_l.web
-      - unicorp_engine_m.web
-      - unicorp_engine_s.web
+      - unicorp_engine_l.webp
+      - unicorp_engine_m.webp
+      - unicorp_engine_s.webp
+      - trading_card_common.webp
+      - trading_card_uncommon.webp
+      - trading_card_rare.webp
     planet:
       exterior:
       - citadel.webp
