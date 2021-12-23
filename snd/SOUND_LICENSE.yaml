@@ -25,7 +25,7 @@
     - explosion2.wav
     - ion.wav
     - jump.wav
-    - laser.wav
+    - turbolaser.wav
     - mass.wav
     - missile.wav
     - nav.wav
@@ -302,6 +302,8 @@
     sounds:
     - activate3.ogg (https://freesound.org/people/Daleonfire/sounds/513739/)
     - activate5.ogg (https://freesound.org/people/Daleonfire/sounds/411617/)
+    - laser1.ogg (https://freesound.org/people/Daleonfire/sounds/546420/)
+    - laser2.ogg (https://freesound.org/people/Daleonfire/sounds/546420/)
 - qubodup:
     license: CC-by 3.0
     sounds:
