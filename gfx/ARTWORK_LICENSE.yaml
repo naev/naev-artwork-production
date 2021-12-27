@@ -22,7 +22,7 @@
     - vendetta.webp
     - vendetta_pirate.webp
     - vigilance.webp
-    planet:
+    spob:
       exterior:
       - aquatic.webp
       - aquatic2.webp
@@ -203,7 +203,7 @@
     - blackhole.webp
 - Fernando L. Copercini "Bisc88" <fernandoluis1732@yahoo.com.br>:
     license: GPLv3+
-    planet:
+    spob:
       exterior:
       - agricultural.webp
       - scrapped_station.webp
@@ -247,7 +247,7 @@
       - trading_card_common.webp
       - trading_card_uncommon.webp
       - trading_card_rare.webp
-    planet:
+    spob:
       exterior:
       - citadel.webp
       - city_landing_pad.webp
@@ -330,7 +330,7 @@
     outfit:
       store:
       - soromid_brigand_fighter.webp
-    planet:
+    spob:
       space:
       - zalek_hq.webp
     ship:
@@ -414,7 +414,7 @@
       - plasteel.webp
       space:
       - lasergreen.png
-    planet:
+    spob:
       exterior:
       - methane.webp
       space:
@@ -435,7 +435,7 @@
       - moon-Y00.webp
 - Joel Hans:
     license: PD
-    planet:
+    spob:
       space:
       - moon-J00.webp
       - moon-M00.webp
@@ -453,7 +453,7 @@
       - macelauncher.webp
 - Justin Nichol <http://justinnichol.wordpress.com/>:
     license: CC-by 3.0
-    planet:
+    spob:
       space:
       - moon-A01.webp
       - moon-G01.webp
@@ -536,7 +536,7 @@
     - debris3.webp
     - debris4.webp
     - debris5.webp
-    planet:
+    spob:
       space:
       - K02.webp
       - K03.webp
@@ -551,7 +551,7 @@
     - pirate.webp
 - Sean Hildebrand:
     license: CC-by 3.0
-    planet:
+    spob:
       space:
       - jumpbuoy.webp
       - jumppoint.webp
@@ -590,7 +590,7 @@
     - fidelity
     - preacher
     - shaman
-    planet:
+    spob:
       space:
       - station-agriculture.webp
       - station-battlestation.webp
@@ -617,7 +617,7 @@
       - fidelity_fighter.webp
 - BTAxis:
     license: PD
-    planet:
+    spob:
       space:
       - A00.webp
       - A01.webp
@@ -679,13 +679,13 @@
     - hail.webp
 - Nikola Whallon <6.saturn.6@gmail.com>:
     license: GPLv3 / CC-by 3
-    planet:
+    spob:
       space:
       - P03.webp
       - moon-C01.webp
 - Vicki Li <LacrymosAmaya@gmail.com>:
     license: GPLv3 / CC-by 3
-    planet:
+    spob:
       space:
       - P04.webp
       - C01.webp
@@ -725,7 +725,7 @@
     ship:
     - shark
     - rhino
-    planet:
+    spob:
       space:
       - wrath.webp
 - bornloser:
@@ -734,7 +734,7 @@
     - phalanx
 - Andmiw:
     license: CC-by-sa 3.0
-    planet:
+    spob:
       space:
       - A04.webp
       - G03.webp
@@ -888,7 +888,7 @@
       - \*
 - antilope:
     license: CC-by-sa 3.0
-    planet:
+    spob:
       space:
       - H04.webp
       - J09.webp
@@ -909,7 +909,7 @@
     - water.webp
 - NASA:
     license: PD (with modifications by PhoenixRiver, License PD)
-    planet:
+    spob:
       space:
       - asteroid:
         - asteroid-D00.webp
@@ -983,14 +983,14 @@
       - D07.webp
 - Bobbens:
     license: PD (with modifications by PhoenixRiver, License PD)
-    planet:
+    spob:
       exterior:
       - asteroid.webp
       space:
       - moon-D00.webp
 - ESA:
     license: PD
-    planet:
+    spob:
       exterior:
       - uninhabited-rocky-airless-00.webp
       - uninhabited-rocky-airless-01.webp
@@ -999,7 +999,7 @@
       - uninhabited-rocky-airless-04.webp
 - ESA:
     license: PD (with modifications by PhoenixRiver, License PD)
-    planet:
+    spob:
       exterior:
       - uninhabited-rocky-red-00.webp
       - uninhabited-rocky-red-01.webp
