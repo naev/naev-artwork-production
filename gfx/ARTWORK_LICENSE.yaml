@@ -1061,7 +1061,7 @@
     - none.webp
     - unknown.webp
 - Viktor Hahn, based on Grumbel and FreeSeamlessTextures.com work:
-    license: CC-by-SA 3.0
+    license: CC-by-sa 3.0
     logo:
     - dvaered.webp
     - empire.webp
@@ -1395,7 +1395,7 @@
     commodity:
     - diamonds.webp
 - Ivar Leidus:
-    license: CC-by-SA 4.0
+    license: CC-by-sa 4.0
     commodity:
     - ore.webp
 - Bicanski <https://pixnio.com/author/bicanski>:
@@ -1403,7 +1403,7 @@
     commodity:
     - medicine.webp
 - miheco <https://www.flickr.com/photos/miheco/>:
-    license: CC-by-SA 2.0
+    license: CC-by-sa 2.0
     commodity:
     - seaweed.webp
 - W. R. van Hage <http://www.xs4all.nl/~wrvh/galaxymap/>:
@@ -1581,7 +1581,7 @@
       store:
       - satellite_mockup.webp
 - Elliot Volkman <https://www.flickr.com/photos/playthis/3657180563/> and Matthew Breitbart <https://www.medicalmuseum.mil/index.cfm?p=media.news.article.2017.06202017>:
-    license: CC-by-SA 2.0
+    license: CC-by-sa 2.0
     outfit:
       store:
       - sandwich_holder.webp
@@ -1601,7 +1601,7 @@
       store:
       - freaky_statue.webp
 - Melissa Doroquez:
-    license: CC-by-SA 2.0
+    license: CC-by-sa 2.0
     outfit:
       store:
       - swamp_bombing.webp
@@ -1611,21 +1611,22 @@
       store:
       - black_cat_doll.webp
 - Sudbury Neutrino Observatory:
-    license: CC-by-SA 4.0
+    license: CC-by-sa 4.0
     outfit:
       store:
       - SNO_detector.webp
 - JJ Harrison (https://www.jjharrison.com.au/):
-    license: CC-by-SA 3.0
+    license: CC-by-sa 3.0
     commodity:
     - vixilium.webp (https://commons.wikimedia.org/wiki/File:Boulder_Opal.jpg)
 - Rob Lavinsky, iRocks.com – CC-BY-SA-3.0:
-    license: CC-by-SA 3.0
+    license: CC-by-sa 3.0
     commodity:
     - kermite.webp (https://commons.wikimedia.org/wiki/File:Veszelyite-Hemimorphite-243414.jpg)
     - therite.webp (https://commons.wikimedia.org/wiki/File:Stibnite-70400.jpg)
     - rhodium.webp (https://commons.wikimedia.org/wiki/File:Apatite-Rhodochrosite-Fluorite-169799.jpg)
     - olivine.webp (https://commons.wikimedia.org/wiki/File:Olivine-23909.jpg)
+    - clay.webp (https://commons.wikimedia.org/wiki/File:Zinkenite-Kaolinite-263844.jpg)
 - Alchemist-hp (www.pse-mendelejew.de):
     license: GFDL 1.2
     commodity:
