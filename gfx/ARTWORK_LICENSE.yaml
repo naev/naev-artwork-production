@@ -258,9 +258,10 @@
     spob:
       exterior:
       - citadel.webp
-      - city_landing_pad.webp
       - coastal_landing_site.webp
       - coastal_landing_site_sunset.webp
+      - hangar1.webp
+      - mining_shaft.webp
       - oceanic_city.webp
       - oceanic_landing_pads.webp
       - silo.webp
@@ -306,6 +307,18 @@
       - \*
       zebra:
       - \*
+- Viktor Hahn, using assets from Vega Strike:
+    license: CC-by-sa 4.0
+    spob:
+      exterior:
+      - city1.webp
+      - city2.webp
+      - hangar2.webp
+- Viktor Hahn, Galileus:
+    license: CC-by-sa 3.0
+    spob:
+      exterior:
+      - city_landing_pad.webp
 - Justin Blanchard, based on work from Viktor Hahn:
     license: CC-by 4.0
     outfit:
