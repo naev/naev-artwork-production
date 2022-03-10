@@ -435,6 +435,7 @@
     overlays:
     - active.webp
     - favourite.webp
+    - fleet.webp
 - Bobbens:
     license: PD
     outfit:
