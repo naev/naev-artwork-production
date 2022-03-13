@@ -319,6 +319,13 @@
     spob:
       exterior:
       - city_landing_pad.webp
+- M. R. Bokhari "Viruk" <withextremeprejudice@gmail.com>, Viktor Hahn:
+    license: CC-by-sa 3.0
+    ship:
+      reaver:
+      - reaver_feral_comm.webp
+      - reaver_feral_engine.webp
+      - reaver_feral.webp
 - Justin Blanchard, based on work from Viktor Hahn:
     license: CC-by 4.0
     outfit:
