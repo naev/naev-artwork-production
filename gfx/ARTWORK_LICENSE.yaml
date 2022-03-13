@@ -446,6 +446,7 @@
     overlays:
     - active.webp
     - favourite.webp
+    - fleet.webp
 - Bobbens:
     license: PD
     outfit:
@@ -1573,6 +1574,7 @@
       - rod-of-asclepius.webp
       - galaxy.webp
       - manta-ray.webp
+      - viking-helmet.webp
 - Lorc (https://lorcblog.blogspot.com/):
     license: CC-by 3.0
     misc:
