@@ -307,6 +307,10 @@
       - \*
       zebra:
       - \*
+      drone:
+      - drone_carrier_comm.webp
+      - drone_carrier_engine.webp
+      - drone_carrier.webp
 - Viktor Hahn, using assets from Vega Strike:
     license: CC-by-sa 4.0
     spob:
