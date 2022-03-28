@@ -227,6 +227,7 @@
       - bioneural_combat_ai.webp
       - blink_drive.webp
       - cyclic_combat_ai.webp
+      - efficiency_combat_ai.webp
       - emergency_stasis_inducer.webp
       - faraday_tempest_coating.webp
       - hive_combat_ai.webp
@@ -236,6 +237,8 @@
       - krain_remige_engine.webp
       - lattice_thermal_coating.webp
       - milspec_impactoplastic_coating.webp
+      - mining_lance1.webp
+      - mining_lance2.webp
       - neural_accelerator_interface.webp
       - nexus_engine_l.webp
       - nexus_engine_m.webp
@@ -248,6 +251,9 @@
       - organic_plasma_t.webp
       - photovoltaic_nanobot_coating.webp
       - pinpoint_combat_ai.webp
+      - rs_hull_l.webp
+      - rs_hull_m.webp
+      - rs_hull_s.webp
       - scanning_combat_ai.webp
       - unicorp_engine_l.webp
       - unicorp_engine_m.webp
