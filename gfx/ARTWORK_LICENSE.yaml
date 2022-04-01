@@ -230,6 +230,8 @@
       - efficiency_combat_ai.webp
       - emergency_stasis_inducer.webp
       - faraday_tempest_coating.webp
+      - grave_beam.webp
+      - grave_lance.webp
       - hive_combat_ai.webp
       - hunting_combat_ai.webp
       - hyperbolic_blink_engine.webp
@@ -249,6 +251,8 @@
       - organic_plasma_s2.webp
       - organic_plasma_s3.webp
       - organic_plasma_t.webp
+      - particle_beam.webp
+      - particle_lance.webp
       - photovoltaic_nanobot_coating.webp
       - pinpoint_combat_ai.webp
       - rs_hull_l.webp
@@ -568,6 +572,7 @@
     license: CC-by 3.0
     outfit:
       store:
+      - orion_beam.webp
       - plasma.webp
       - plasma2.webp
       - plasma_cannon.webp
