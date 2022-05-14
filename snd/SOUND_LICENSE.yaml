@@ -187,6 +187,7 @@
 - LittleRobotSoundFactory:
     license: CC-by 3.0
     sounds:
+    - hypergate.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/270554/)
     - ui:
       - happy.wav (https://freesound.org/people/LittleRobotSoundFactory/sounds/274203/)
     - loops:
