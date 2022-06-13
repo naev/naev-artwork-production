@@ -1719,4 +1719,20 @@
     license: CC-by 4.0
     gfx:
       planets:
-      - I08.webp 
+      - I08.webp
+      - P_1.webp
+      - P_2.webp
+      - P_3.webp
+      moons:
+      - M_1.webp
+      asteroids:
+      - AM_1.webp
+      - AM_2.webp
+      - AM_3.webp
+      - AM_4.webp
+      - AC_1.webp
+      - AC_2.webp
+      - AC_3.webp
+      - AC_4.webp
+      - AC_5.webp
+      - A_1.webp
