@@ -1736,3 +1736,6 @@
       - AC_4.webp
       - AC_5.webp
       - A_1.webp
+      outfits:
+      - Plasma_Drill_Small.webp
+      - Plasma_Drill_Heavy.webp
