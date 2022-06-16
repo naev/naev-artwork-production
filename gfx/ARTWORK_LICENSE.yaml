@@ -1717,25 +1717,25 @@
         - female4n.webp
 - Elven_Moustache:
     license: CC-by 4.0
-    gfx:
-      planets:
+    spob:
+      space:
       - I08.webp
       - P_1.webp
       - P_2.webp
       - P_3.webp
-      moons:
       - M_1.webp
-      asteroids:
-      - AM_1.webp
-      - AM_2.webp
-      - AM_3.webp
-      - AM_4.webp
-      - AC_1.webp
-      - AC_2.webp
-      - AC_3.webp
-      - AC_4.webp
-      - AC_5.webp
-      - A_1.webp
-      outfits:
+      - asteroid:
+        - NC01.webp
+        - NC02.webp
+        - NC03.webp
+        - NC04.webp
+        - NC05.webp
+        - moss1.webp
+        - moss2.webp
+        - moss3.webp
+        - moss4.webp
+        - flower.webp
+    outfit:
+      store:
       - Plasma_Drill_Small.webp
       - Plasma_Drill_Heavy.webp
