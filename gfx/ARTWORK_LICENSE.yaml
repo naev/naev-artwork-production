@@ -1720,21 +1720,21 @@
     spob:
       space:
       - I08.webp
-      - P_1.webp
-      - P_2.webp
-      - P_3.webp
-      - M_1.webp
+      - M26.webp
+      - K05.webp
+      - K06.webp
+      - moon-C02.webp
       - asteroid:
         - NC01.webp
         - NC02.webp
         - NC03.webp
         - NC04.webp
         - NC05.webp
-        - moss1.webp
-        - moss2.webp
-        - moss3.webp
-        - moss4.webp
-        - flower.webp
+        - moss01.webp
+        - moss02.webp
+        - moss03.webp
+        - moss04.webp
+        - flower01.webp
     outfit:
       store:
       - Plasma_Drill_Small.webp
