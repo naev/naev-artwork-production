@@ -1739,3 +1739,5 @@
       store:
       - Plasma_Drill_Small.webp
       - Plasma_Drill_Heavy.webp
+    commodity:
+      - Nebula Crystal.webp
