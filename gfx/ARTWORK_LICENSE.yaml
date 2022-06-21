@@ -1737,7 +1737,7 @@
         - flower01.webp
     outfit:
       store:
-      - Plasma_Drill_Small.webp
-      - Plasma_Drill_Heavy.webp
+      - plasma_drill_small.webp
+      - plasma_drill_heavy.webp
     commodity:
-      - Nebula Crystal.webp
+      - nebula_crystals.webp
