@@ -1718,12 +1718,12 @@
 - Elven_Moustache:
     license: CC-by 4.0
     spob:
-      space:
-      - I08.webp
-      - M26.webp
-      - K05.webp
-      - K06.webp
-      - moon-C02.webp
+      - space:
+        - I08.webp
+        - M26.webp
+        - K05.webp
+        - K06.webp
+        - moon-C02.webp
       - asteroid:
         - NC01.webp
         - NC02.webp
@@ -1749,6 +1749,6 @@
       - plasma_drill_small.webp
       - plasma_drill_heavy.webp
     commodity:
-      space:
+      - space:
         - nebula_crystals.webp
       - nebula_crystals.webp
