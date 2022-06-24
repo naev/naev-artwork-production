@@ -1730,25 +1730,25 @@
         - NC03.webp
         - NC04.webp
         - NC05.webp
+        - NC06.webp
+        - NC07.webp
+        - NC08.webp
+        - NC09.webp
+        - NC10.webp
+        - NC11.webp
+        - NC12.webp
+        - NC13.webp
+        - NC14.webp
         - moss01.webp
         - moss02.webp
         - moss03.webp
         - moss04.webp
         - flower01.webp
-        - Crystal_1_S.webp
-        - Crystal_2_S.webp
-        - Crystal_3_S.webp
-        - Crystal_4_S.webp
-        - Crystal_5_S.webp
-        - Crystal_6_S.webp
-        - Crystal_7_S.webp
-        - Crystal_8_S.webp
-        - Crystal_9_S.webp
-        - Crystal_Sh_1_S.webp
-        - Crystal_Sh_2_S.webp
     outfit:
       store:
       - plasma_drill_small.webp
       - plasma_drill_heavy.webp
     commodity:
+      space:
+        - nebula_crystals.webp
       - nebula_crystals.webp
