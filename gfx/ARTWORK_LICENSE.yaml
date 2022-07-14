@@ -1706,6 +1706,7 @@
         - female2_nogog.webp
         - female3.webp
         - female4.webp
+        - male1n.webp
     gfx:
       portraits:
         neutral:
@@ -1715,6 +1716,7 @@
         - female2n_nogog.webp
         - female3n.webp
         - female4n.webp
+        - male1n.webp
 - Elven_Moustache:
     license: CC-by 4.0
     spob:
