@@ -1717,6 +1717,15 @@
         - female3n.webp
         - female4n.webp
         - male1n.webp
+      outfit:
+        store:
+        - map_local.webp
+        - map_sector_01.webp
+        - map_sector_02.webp
+        - map_sector_03.webp
+        - map_sector_04.webp
+        - map_sector_05.webp
+        - map_vicinity.webp
 - Elven_Moustache:
     license: CC-by 4.0
     spob:
