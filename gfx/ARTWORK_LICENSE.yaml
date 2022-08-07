@@ -268,6 +268,8 @@
     spob:
       exterior:
       - citadel.webp
+      - city3.webp
+      - city4.webp
       - coastal_landing_site.webp
       - coastal_landing_site_sunset.webp
       - hangar1.webp
