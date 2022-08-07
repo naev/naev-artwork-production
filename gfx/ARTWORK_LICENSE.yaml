@@ -345,10 +345,19 @@
 - M. R. Bokhari "Viruk" <withextremeprejudice@gmail.com>, Viktor Hahn:
     license: CC-by-sa 3.0
     ship:
+      arx:
+      - arx_feral_comm.webp
+      - arx_feral_engine.webp
+      - arx_feral.webp
+      odium:
+      - odium_feral_comm.webp
+      - odium_feral_engine.webp
+      - odium_feral.webp
       reaver:
       - reaver_feral_comm.webp
       - reaver_feral_engine.webp
       - reaver_feral.webp
+
 - Justin Blanchard, based on work from Viktor Hahn:
     license: CC-by 4.0
     outfit:
