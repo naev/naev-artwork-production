@@ -227,6 +227,7 @@
       - bioneural_combat_ai.webp
       - blink_drive.webp
       - cyclic_combat_ai.webp
+      - drill_lance.webp
       - efficiency_combat_ai.webp
       - emergency_stasis_inducer.webp
       - faraday_tempest_coating.webp
@@ -255,6 +256,12 @@
       - particle_lance.webp
       - photovoltaic_nanobot_coating.webp
       - pinpoint_combat_ai.webp
+      - razor1.webp
+      - razor2.webp
+      - razor3.webp
+      - razorturret1.webp
+      - razorturret2.webp
+      - razorturret3.webp
       - rs_hull_l.webp
       - rs_hull_m.webp
       - rs_hull_s.webp
@@ -590,6 +597,8 @@
     license: CC-by 3.0
     outfit:
       store:
+      - heavy_ioncannon.webp
+      - heavy_ionturret.webp
       - orion_beam.webp
       - plasma.webp
       - plasma2.webp
