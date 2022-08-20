@@ -321,6 +321,6 @@
     sounds:
     - ping.ogg (https://freesound.org/people/KIZILSUNGUR/sounds/70299/)
 - LJ_Dude:
-	license: CC-BY-SA
-	music:
-	approach.ogg (https://soundcloud.com/lj_dude/approach)
+    license: CC-BY-SA
+    music:
+    - approach.ogg (https://soundcloud.com/lj_dude/approach)
