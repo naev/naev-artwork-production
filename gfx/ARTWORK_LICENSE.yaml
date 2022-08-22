@@ -1722,12 +1722,13 @@
     vn:
       characters:
         neutral:
+        - bartender_f1.webp
         - bartender_m1.webp
-        - female1.webp
-        - female2.webp
-        - female2_nogog.webp
-        - female3.webp
-        - female4.webp
+        - female1n.webp
+        - female2n.webp
+        - female2n_nogog.webp
+        - female3n.webp
+        - female4n.webp
         - male1n.webp
         soromid:
         - soromid_heavy_civilian_1.webp
@@ -1735,6 +1736,7 @@
     gfx:
       portraits:
         neutral:
+        - bartender_f1.webp
         - bartender_m1.webp
         - female1n.webp
         - female2n.webp
