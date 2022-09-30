@@ -364,6 +364,10 @@
       - reaver_feral_comm.webp
       - reaver_feral_engine.webp
       - reaver_feral.webp
+      revenant:
+      - revenant_comm.webp
+      - revenant_engine.webp
+      - revenant.webp
 
 - Justin Blanchard, based on work from Viktor Hahn:
     license: CC-by 4.0
