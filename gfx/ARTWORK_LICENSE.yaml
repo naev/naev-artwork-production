@@ -221,6 +221,9 @@
 - Viktor Hahn:
     license: CC-by 4.0
     outfit:
+      space:
+      - spearhead.webp
+      - vengeance.webp
       store:
       - agility_combat_ai.webp
       - berserk_chip.webp
@@ -266,12 +269,14 @@
       - rs_hull_m.webp
       - rs_hull_s.webp
       - scanning_combat_ai.webp
+      - spearhead_launcher.webp
       - unicorp_engine_l.webp
       - unicorp_engine_m.webp
       - unicorp_engine_s.webp
       - trading_card_common.webp
       - trading_card_uncommon.webp
       - trading_card_rare.webp
+      - vengeance_launcher.webp
     spob:
       exterior:
       - citadel.webp
