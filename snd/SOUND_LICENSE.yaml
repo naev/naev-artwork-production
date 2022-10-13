@@ -328,3 +328,8 @@
     license: CC0
     sounds:
     - detonation_alarm.ogg (https://freesound.org/people/FusionWolf3740/sounds/570462/)
+- SoundFlakes:
+    license: CC-by 4.0
+    sounds:
+    - songs:
+      - sad_drama.ogg (https://freesound.org/people/SoundFlakes/sounds/413732/)
