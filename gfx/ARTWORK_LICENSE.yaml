@@ -63,8 +63,6 @@
       - \*
       ancestor:
       - \*
-      archimedes:
-      - \*
       derivative:
       - \*
       drone:
@@ -96,8 +94,6 @@
       vendetta:
       - \*
       vigilance:
-      - \*
-      watson:
       - \*
     commodity:
     - space:
@@ -322,13 +318,23 @@
       - zalek_station1.webp
       - zalek_station2.webp
     ship:
+      archimedes:
+      - \*
       arsenal:
       - \*
       copia:
       - \*
+      dalton:
+      - \*
+      gauss:
+      - \*
+      hippocrates:
+      - \*
       mammon:
       - \*
       providence:
+      - \*
+      pythagoras:
       - \*
       rainmaker:
       - \*
@@ -336,6 +342,8 @@
       - \*
       starbridge:
       - \*
+      watson:
+       \*
       zebra:
       - \*
       drone:
