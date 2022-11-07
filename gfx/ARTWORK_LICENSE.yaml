@@ -6,7 +6,7 @@
     - admonisher_pirate.webp
     - ancestor.webp
     - archimedes.webp
-    - derivative.webp
+    - euler.webp
     - drone.webp
     - gawain.webp
     - goddard.webp
@@ -63,7 +63,7 @@
       - \*
       ancestor:
       - \*
-      derivative:
+      euler:
       - \*
       drone:
       - \*
@@ -139,7 +139,7 @@
       - hyena_fighter.webp
       - lancelot_fighter.webp
       - neutronheavy.webp
-      - proteron_derivative_fighter.webp
+      - proteron_euler_fighter.webp
 - bobbens:
     license: CC-by-sa 4.0
     vn:
