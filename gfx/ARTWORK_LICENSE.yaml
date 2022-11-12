@@ -215,6 +215,8 @@
       - uninhabited-jungle.webp
 - Viktor Hahn:
     license: CC-by 4.0
+    loading:
+    - dalton.webp
     outfit:
       space:
       - spearhead.webp
@@ -225,6 +227,8 @@
       - bioneural_combat_ai.webp
       - blink_drive.webp
       - cyclic_combat_ai.webp
+      - dalton_bay.webp
+      - dalton_dock.webp
       - drill_lance.webp
       - efficiency_combat_ai.webp
       - emergency_stasis_inducer.webp
