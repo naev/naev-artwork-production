@@ -333,3 +333,7 @@
     sounds:
     - songs:
       - sad_drama.ogg (https://freesound.org/people/SoundFlakes/sounds/413732/)
+- OptronTeam:
+    license: CC-by 4.0
+    sounds:
+    - equipment_failure.ogg (https://freesound.org/people/OptronTeam/sounds/551174/)
