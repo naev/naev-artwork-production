@@ -323,7 +323,7 @@
 - LJ_Dude <https://soundcloud.com/lj_dude>:
     license: CC-BY-SA 4.0
     music:
-    - approach.ogg 
+    - approach.ogg
     - Vendetta.ogg
 - FusionWolf3740:
     license: CC0
@@ -338,3 +338,7 @@
     license: CC-by 4.0
     sounds:
     - equipment_failure.ogg (https://freesound.org/people/OptronTeam/sounds/551174/)
+- michael_grinnell:
+    license: CC0
+    sounds:
+    - electric_zap.ogg (https://freesound.org/people/michael_grinnell/sounds/512471/)
