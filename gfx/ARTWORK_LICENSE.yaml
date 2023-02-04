@@ -170,6 +170,7 @@
       - lieutenant_strafner.webp
       - sergeant_nikolov.webp
       - major_tam.webp
+      - lucas.webp
     portraits:
       - blackcat.webp
       - cyborg_chicken.png
@@ -198,6 +199,7 @@
       - lieutenant_strafner.webp
       - sergeant_nikolov.webp
       - major_tam.webp
+      - lucas.webp
     outfit:
       store:
       - love_letter.webp
