@@ -1741,6 +1741,7 @@
     license: CC-by-sa 4.0
     vn:
       characters:
+      - mapmaker.webp
         neutral:
         - bartender_f1.webp
         - bartender_m1.webp
@@ -1750,11 +1751,15 @@
         - female3n.webp
         - female4n.webp
         - male1n.webp
+        - male2n.webp
+        - male3n.webp
+        - male3n_v1.webp
         soromid:
         - soromid_heavy_civilian_1.webp
         - soromid_heavy_civilian_2.webp
     gfx:
       portraits:
+      - mapmaker.webp
         neutral:
         - bartender_f1.webp
         - bartender_m1.webp
@@ -1764,6 +1769,9 @@
         - female3n.webp
         - female4n.webp
         - male1n.webp
+        - male2n.webp
+        - male3n.webp
+        - male3n_v1.webp
         soromid:
         - soromid_heavy_civilian_1.webp
         - soromid_heavy_civilian_2.webp
@@ -1776,6 +1784,24 @@
         - map_sector_04.webp
         - map_sector_05.webp
         - map_vicinity.webp
+    spob:
+      - space:
+        - A05.webp
+        - A06.webp
+        - A07.webp
+        - A08.webp
+        - A09.webp
+        - M15.webp
+        - M16.webp
+        - M17.webp
+        - M18.webp
+        - M19.webp
+        - M20.webp
+        - M21.webp
+        - M22.webp
+        - M23.webp
+        - M24.webp
+        - M25.webp
 - Elven_Moustache:
     license: CC-by 4.0
     spob:
