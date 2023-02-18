@@ -5,13 +5,12 @@
     - ancestor_pirate.webp
     - admonisher_pirate.webp
     - ancestor.webp
-    - archimedes.webp
-    - derivative.webp
+    - euler.webp
     - drone.webp
     - gawain.webp
     - goddard.webp
     - hawking.webp
-    - kahan.webp
+    - gauss.webp
     - koala.webp
     - lancelot.webp
     - llama.webp
@@ -63,7 +62,7 @@
       - \*
       ancestor:
       - \*
-      derivative:
+      euler:
       - \*
       drone:
       - \*
@@ -75,7 +74,7 @@
       - \*
       hyena:
       - \*
-      kahan:
+      gauss:
       - \*
       koala:
       - \*
@@ -139,7 +138,7 @@
       - hyena_fighter.webp
       - lancelot_fighter.webp
       - neutronheavy.webp
-      - proteron_derivative_fighter.webp
+      - proteron_euler_fighter.webp
 - bobbens:
     license: CC-by-sa 4.0
     vn:
@@ -216,6 +215,8 @@
       - uninhabited-jungle.webp
 - Viktor Hahn:
     license: CC-by 4.0
+    loading:
+    - dalton.webp
     outfit:
       space:
       - spearhead.webp
@@ -226,6 +227,8 @@
       - bioneural_combat_ai.webp
       - blink_drive.webp
       - cyclic_combat_ai.webp
+      - dalton_bay.webp
+      - dalton_dock.webp
       - drill_lance.webp
       - efficiency_combat_ai.webp
       - emergency_stasis_inducer.webp

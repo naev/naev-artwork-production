@@ -320,10 +320,11 @@
     license: CC0
     sounds:
     - ping.ogg (https://freesound.org/people/KIZILSUNGUR/sounds/70299/)
-- LJ_Dude:
-    license: CC-BY-SA
+- LJ_Dude <https://soundcloud.com/lj_dude>:
+    license: CC-BY-SA 4.0
     music:
-    - approach.ogg (https://soundcloud.com/lj_dude/approach)
+    - approach.ogg
+    - Vendetta.ogg
 - FusionWolf3740:
     license: CC0
     sounds:
@@ -333,3 +334,11 @@
     sounds:
     - songs:
       - sad_drama.ogg (https://freesound.org/people/SoundFlakes/sounds/413732/)
+- OptronTeam:
+    license: CC-by 4.0
+    sounds:
+    - equipment_failure.ogg (https://freesound.org/people/OptronTeam/sounds/551174/)
+- michael_grinnell:
+    license: CC0
+    sounds:
+    - electric_zap.ogg (https://freesound.org/people/michael_grinnell/sounds/512471/)
