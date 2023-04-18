@@ -355,3 +355,8 @@
     license: CC-by 3.0
     sounds:
     - race_start.ogg (https://freesound.org/people/JustInvoke/sounds/446130/)
+- soramoosic:
+    license: CC0
+    sounds:
+    - loops:
+      - kalimba_atmosphere.ogg (https://freesound.org/people/soramoosic/sounds/271291/)
