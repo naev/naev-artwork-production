@@ -1792,6 +1792,11 @@
         - soromid:
           - soromid_heavy_civilian_1.webp
           - soromid_heavy_civilian_2.webp
+        - sirius:
+          - sirius_fyrra_m1n.webp
+          - sirius_fyrra_m1_v2.webp
+          - sirius_fyrra_m1_v3.webp
+          - sirius_fyrra_m1_v4.webp
       outfit:
         store:
         - map_local.webp
