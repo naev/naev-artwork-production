@@ -327,6 +327,8 @@
       - station-shipyard4.webp
       - zalek_station1.webp
       - zalek_station2.webp
+      - obelisk_sirius.webp
+      - obelisk_pirate.webp
     ship:
       apparition:
       - \*
