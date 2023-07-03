@@ -1801,6 +1801,9 @@
           - sirius_fyrra_m1_v2.webp
           - sirius_fyrra_m1_v3.webp
           - sirius_fyrra_m1_v4.webp
+          - sirius_serra_f1.webp
+          - sirius_serra_f2.webp
+          - sirius_serra_m1.webp
       outfit:
         store:
         - map_local.webp
