@@ -281,6 +281,9 @@
       - trading_card_rare.webp
       - vengeance_launcher.webp
     spob:
+      comm:
+      - obelisk_pirate_comm.webp
+      - obelisk_sirius_comm.webp
       exterior:
       - citadel.webp
       - city3.webp
