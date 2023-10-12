@@ -1799,6 +1799,8 @@
         - soromid:
           - soromid_heavy_civilian_1.webp
           - soromid_heavy_civilian_2.webp
+          - soromid_heavy_civilian_3.webp
+          - soromid_heavy_military_3.webp
         - sirius:
           - sirius_fyrra_m1n.webp
           - sirius_fyrra_m1_v2.webp
@@ -1807,9 +1809,11 @@
           - sirius_serra_f1.webp
           - sirius_serra_f2.webp
           - sirius_serra_f3.webp
+          - sirius_serra_f4.webp
           - sirius_serra_m1.webp
           - sirius_serra_m2.webp
           - sirius_serra_m3.webp
+          - sirius_serra_m4.webp
       outfit:
         store:
         - map_local.webp
