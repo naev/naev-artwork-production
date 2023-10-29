@@ -282,6 +282,9 @@
       - trading_card_uncommon.webp
       - trading_card_rare.webp
       - vengeance_launcher.webp
+      - catalytic_energy_drill.webp
+      - rackham_razor.webp
+      - zd5_guardian_unit.webp
     spob:
       comm:
       - obelisk_pirate_comm.webp
