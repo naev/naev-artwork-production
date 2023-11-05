@@ -145,6 +145,7 @@
       characters:
       - blackcat.webp
       - cyborg_chicken.png
+      - cyborg_chicken_pirate.webp
       - drshrimp.png
       - dvaered_thug1.png
       - major_malik.webp
@@ -164,6 +165,7 @@
       - zalek3.webp
       - zalek_thug1.png
       - zuri.webp
+      - zuri_hurt.webp
       - verner.webp
       - noona.png
       - dvaered1.webp
@@ -175,6 +177,7 @@
     portraits:
       - blackcat.webp
       - cyborg_chicken.png
+      - cyborg_chicken_pirate.webp
       - drshrimp.png
       - dvaered_thug1.png
       - major_malik.webp
@@ -194,6 +197,7 @@
       - zalek3.webp
       - zalek_thug1.png
       - zuri.webp
+      - zuri_hurt.webp
       - verner.webp
       - noona.png
       - dvaered1.webp
