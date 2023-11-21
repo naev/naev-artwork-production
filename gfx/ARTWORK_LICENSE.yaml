@@ -1904,3 +1904,12 @@
       - space:
         - nebula_crystals.webp
       - nebula_crystals.webp
+- Timsticles:
+    license: CC-by 4.0
+    slots:
+      - accessory.png
+      - bio.png
+      - engines.png
+      - fighter.png
+      - hull.png
+      - systems.png
