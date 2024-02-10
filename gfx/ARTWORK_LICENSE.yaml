@@ -1799,13 +1799,32 @@
           - female2n_nogog.webp
           - female3n.webp
           - female4n.webp
+          - female5n.webp
+          - female6n.webp
           - male1n.webp
           - male2n.webp
           - male3n.webp
           - male3n_v2.webp
+          - unique:
+            - baron_sauterfeldt.webp
         - soromid:
           - soromid_heavy_civilian_1.webp
           - soromid_heavy_civilian_2.webp
+          - soromid_heavy_civilian_3.webp
+          - soromid_heavy_military_3.webp
+        - sirius:
+          - sirius_fyrra_m1n.webp
+          - sirius_fyrra_m1_v2.webp
+          - sirius_fyrra_m1_v3.webp
+          - sirius_fyrra_m1_v4.webp
+          - sirius_serra_f1.webp
+          - sirius_serra_f2.webp
+          - sirius_serra_f3.webp
+          - sirius_serra_f4.webp
+          - sirius_serra_m1.webp
+          - sirius_serra_m2.webp
+          - sirius_serra_m3.webp
+          - sirius_serra_m4.webp
     gfx:
       portraits:
         - mapmaker.webp
@@ -1817,10 +1836,14 @@
           - female2n_nogog.webp
           - female3n.webp
           - female4n.webp
+          - female5n.webp
+          - female6n.webp
           - male1n.webp
           - male2n.webp
           - male3n.webp
           - male3n_v2.webp
+          - unique:
+            - baron_sauterfeldt.webp
         - soromid:
           - soromid_heavy_civilian_1.webp
           - soromid_heavy_civilian_2.webp
