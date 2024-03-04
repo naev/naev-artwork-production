@@ -212,6 +212,8 @@
       - fuzzy_dice.webp
     map:
     - blackhole.webp
+    misc:
+    - onion_society.webp
 - Fernando L. Copercini "Bisc88" <fernandoluis1732@yahoo.com.br>:
     license: GPLv3+
     spob:
