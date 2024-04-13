@@ -175,6 +175,9 @@
       - lucas.webp
       - judge_holmes.webp
       - lonewolf4.webp
+      - notasockpuppet.webp
+      - l337_b01.webp
+      - DOG.webp
     portraits:
       - blackcat.webp
       - cyborg_chicken.png
@@ -207,6 +210,7 @@
       - major_tam.webp
       - lucas.webp
       - judge_holmes.webp
+      - notasockpuppet.webp
     outfit:
       store:
       - love_letter.webp
@@ -1948,3 +1952,8 @@
       - fighter.png
       - hull.png
       - systems.png
+- arikel:
+    license: CC-by-sa 4.0
+    vn:
+      characters:
+        - trixie.webp (https://opengameart.org/content/2d-rpg-character-walk-spritesheet)

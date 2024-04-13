@@ -390,3 +390,8 @@
     sounds:
     - loops:
       - onion_circus.ogg (https://freesound.org/people/bone666138/sounds/198896/)
+- eardeer:
+    license: CC-by 4.0
+    sounds:
+    - loops:
+      - onion_hacker.ogg (https://freesound.org/people/eardeer/sounds/401612/)
