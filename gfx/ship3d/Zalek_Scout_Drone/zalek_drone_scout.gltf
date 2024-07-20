@@ -1,0 +1,511 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v4.0.1",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 3484,
+      "max": [
+        5.422115802764893,
+        4.587637424468994,
+        9.13187313079834
+      ],
+      "min": [
+        -10.456608772277832,
+        -8.185826301574707,
+        -15.301140785217285
+      ],
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 3484,
+      "bufferView": 0,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 3484,
+      "bufferView": 0,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 5016,
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 384,
+      "bufferView": 1,
+      "byteOffset": 10032
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 336,
+      "bufferView": 1,
+      "byteOffset": 10800
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 256,
+      "max": [
+        1.25,
+        0.25,
+        1.25
+      ],
+      "min": [
+        -1.25,
+        -0.25,
+        -1.25
+      ],
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 256,
+      "bufferView": 2,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 256,
+      "bufferView": 2,
+      "byteOffset": 24
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 240,
+      "max": [
+        0.9999999403953552,
+        1,
+        0.9999998807907104
+      ],
+      "min": [
+        -0.9999998807907104,
+        -1,
+        -0.9999998807907104
+      ],
+      "bufferView": 3,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 240,
+      "bufferView": 3,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 240,
+      "bufferView": 3,
+      "byteOffset": 24
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 111488,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 111488,
+      "byteLength": 11472,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 122960,
+      "byteLength": 8192,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 131152,
+      "byteLength": 7680,
+      "byteStride": 32,
+      "target": 34962
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    },
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 33648,
+      "wrapT": 33648
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 2
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 0
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 1
+        }
+      }
+    },
+    {
+      "sampler": 1,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 3
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 4
+        }
+      }
+    }
+  ],
+  "images": [
+    {
+      "name": "zalek_scout_droneGLO",
+      "mimeType": "image/webp",
+      "uri": "zalek_scout_droneGLO.webp"
+    },
+    {
+      "name": "AO_bake_scout",
+      "mimeType": "image/webp",
+      "uri": "AO_bake_scout.webp"
+    },
+    {
+      "name": "zalek_scout_drone",
+      "mimeType": "image/webp",
+      "uri": "zalek_scout_drone.webp"
+    },
+    {
+      "name": "zalek_glow",
+      "mimeType": "image/webp",
+      "uri": "../textures/zalek_glow.webp"
+    },
+    {
+      "name": "GLO_bake_scout",
+      "mimeType": "image/webp",
+      "uri": "GLO_bake_scout.webp"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "zalek_drone_scout.bin",
+      "byteLength": 138832
+    }
+  ],
+  "materials": [
+    {
+      "name": "base",
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.699999988079071,
+        "metallicFactor": 0.30000001192092896,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "engine_glow_zalek_drone",
+      "alphaMode": "BLEND",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 3
+        }
+      },
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 3
+      },
+      "extensions": {
+        "KHR_materials_emissive_strength": {
+          "emissiveStrength": 2
+        }
+      }
+    },
+    {
+      "name": "base_glow",
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.699999988079071,
+        "metallicFactor": 0.30000001192092896,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 4
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "base",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 3
+        }
+      ]
+    },
+    {
+      "name": "glow_torus",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TEXCOORD_0": 8
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 4
+        }
+      ]
+    },
+    {
+      "name": "glow_jet",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 9,
+            "NORMAL": 10,
+            "TEXCOORD_0": 11
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 5
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "mode": 4,
+          "material": 2,
+          "indices": 3
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "base",
+      "translation": [
+        0,
+        0,
+        0.6818252205848694
+      ],
+      "scale": [
+        0.2633160352706909,
+        0.2633160352706909,
+        0.2633160352706909
+      ],
+      "mesh": 0
+    },
+    {
+      "name": "glow_torus",
+      "translation": [
+        0,
+        0,
+        -3.246539354324341
+      ],
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+      ],
+      "scale": [
+        0.8573740720748901,
+        0.8573740720748901,
+        0.8573740720748901
+      ],
+      "mesh": 1
+    },
+    {
+      "name": "glow_jet",
+      "translation": [
+        0,
+        0,
+        -4.3177595138549805
+      ],
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+      ],
+      "scale": [
+        0.2945190966129303,
+        1.291905403137207,
+        0.2945190966129303
+      ],
+      "mesh": 2
+    },
+    {
+      "name": "base_glow",
+      "translation": [
+        0,
+        0,
+        0.6818252205848694
+      ],
+      "scale": [
+        0.2633160352706909,
+        0.2633160352706909,
+        0.2633160352706909
+      ],
+      "mesh": 3
+    },
+    {
+      "name": "mount",
+      "extras": {
+        "NAEV_weapon_mount": "0"
+      },
+      "translation": [
+        -1.5889692306518555,
+        -1.341813087463379,
+        2.236997604370117
+      ]
+    },
+    {
+      "name": "trail_center",
+      "extras": {
+        "NAEV_trail_generator": "zalekXS"
+      },
+      "translation": [
+        0,
+        0,
+        -3.2757205963134766
+      ]
+    },
+    {
+      "name": "trail_nebula",
+      "extras": {
+        "NAEV_trail_generator": "nebulaS"
+      },
+      "translation": [
+        -2.7063231468200684,
+        -1.7236706018447876,
+        0.9427030086517334
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "name": "base",
+      "extras": {
+        "BBB_props": {
+          "image_settings": {},
+          "guided_ui": 1,
+          "dir_path": "//bake/"
+        }
+      },
+      "nodes": [
+        0
+      ]
+    },
+    {
+      "name": "engine",
+      "nodes": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "name": "meta",
+      "nodes": [
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "scene": 0,
+  "extensionsUsed": [
+    "EXT_texture_webp",
+    "KHR_materials_emissive_strength"
+  ],
+  "extensionsRequired": [
+    "EXT_texture_webp"
+  ]
+}

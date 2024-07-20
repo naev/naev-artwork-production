@@ -1,0 +1,768 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v4.0.1",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 486,
+      "max": [
+        0.2223513424396515,
+        -1.9524550437927246,
+        0.6878153085708618
+      ],
+      "min": [
+        -0.2223513424396515,
+        -3.5586514472961426,
+        -0.5399872660636902
+      ],
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 486,
+      "bufferView": 0,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 486,
+      "bufferView": 0,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 1536,
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 2496,
+      "bufferView": 1,
+      "byteOffset": 3072
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 1152,
+      "bufferView": 1,
+      "byteOffset": 8064
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 3552,
+      "bufferView": 1,
+      "byteOffset": 10368
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 720,
+      "bufferView": 1,
+      "byteOffset": 17472
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 770,
+      "max": [
+        0.3234440088272095,
+        2.984337091445923,
+        -0.20227600634098053
+      ],
+      "min": [
+        -0.3234440088272095,
+        -0.1126680001616478,
+        -0.6497139930725098
+      ],
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 770,
+      "bufferView": 2,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 770,
+      "bufferView": 2,
+      "byteOffset": 24
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 319,
+      "max": [
+        0.3556193709373474,
+        1.8613033294677734,
+        0.4050889313220978
+      ],
+      "min": [
+        -0.3556191921234131,
+        -0.3466295003890991,
+        -0.2298070192337036
+      ],
+      "bufferView": 3,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 319,
+      "bufferView": 3,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 319,
+      "bufferView": 3,
+      "byteOffset": 24
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1279,
+      "max": [
+        1.061081051826477,
+        4.58474063873291,
+        1.004485011100769
+      ],
+      "min": [
+        -1.061081051826477,
+        -3.6803789138793945,
+        -0.906889021396637
+      ],
+      "bufferView": 4,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 1279,
+      "bufferView": 4,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 1279,
+      "bufferView": 4,
+      "byteOffset": 24
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 205,
+      "max": [
+        0.15543100237846375,
+        -3.2744574546813965,
+        0.5729689598083496
+      ],
+      "min": [
+        -0.15543100237846375,
+        -4.350281238555908,
+        -0.4341968595981598
+      ],
+      "bufferView": 5,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 205,
+      "bufferView": 5,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 205,
+      "bufferView": 5,
+      "byteOffset": 24
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 15552,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 15552,
+      "byteLength": 18912,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 34464,
+      "byteLength": 24640,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 59104,
+      "byteLength": 10208,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 69312,
+      "byteLength": 40928,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 110240,
+      "byteLength": 6560,
+      "byteStride": 32,
+      "target": 34962
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 1
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 0
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 2
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 3
+        }
+      }
+    }
+  ],
+  "images": [
+    {
+      "name": "dogma_normal",
+      "mimeType": "image/webp",
+      "uri": "dogma_normal.webp"
+    },
+    {
+      "name": "dogma_diffuse",
+      "mimeType": "image/webp",
+      "uri": "dogma_diffuse.webp"
+    },
+    {
+      "name": "dogma_roughness",
+      "mimeType": "image/webp",
+      "uri": "dogma_roughness.webp"
+    },
+    {
+      "name": "gradient_yellow",
+      "mimeType": "image/webp",
+      "uri": "../textures/gradient_yellow.webp"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "dogma.bin",
+      "byteLength": 116800
+    }
+  ],
+  "materials": [
+    {
+      "name": "material_bake",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.699999988079071,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "material_bake",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.699999988079071,
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "engine_glow_sirius",
+      "alphaMode": "BLEND",
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.75,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 3
+        }
+      },
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 3
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "engines.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 3
+        }
+      ]
+    },
+    {
+      "name": "guns.002",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 8,
+            "NORMAL": 9,
+            "TEXCOORD_0": 10
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 4
+        }
+      ]
+    },
+    {
+      "name": "turrets.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 11,
+            "NORMAL": 12,
+            "TEXCOORD_0": 13
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 5
+        }
+      ]
+    },
+    {
+      "name": "base.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 14,
+            "NORMAL": 15,
+            "TEXCOORD_0": 16
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 6
+        }
+      ]
+    },
+    {
+      "name": "Cube.002_Cube.002",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 17,
+            "NORMAL": 18,
+            "TEXCOORD_0": 19
+          },
+          "mode": 4,
+          "material": 2,
+          "indices": 7
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "engines_baked",
+      "mesh": 0
+    },
+    {
+      "name": "guns_baked",
+      "translation": [
+        0,
+        0.03461260348558426,
+        0
+      ],
+      "mesh": 1
+    },
+    {
+      "name": "turrets_baked",
+      "translation": [
+        0.002514274325221777,
+        -0.207907572388649,
+        -0.5028793811798096
+      ],
+      "scale": [
+        1.2000000476837158,
+        1.2000000476837158,
+        1.2000000476837158
+      ],
+      "mesh": 2
+    },
+    {
+      "name": "base_baked",
+      "translation": [
+        0,
+        0,
+        -0.10383780300617218
+      ],
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ],
+      "mesh": 3,
+      "children": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "name": "engine_glow",
+      "translation": [
+        0,
+        0,
+        0.20767562091350555
+      ],
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ],
+      "mesh": 4
+    },
+    {
+      "name": "engines_baked",
+      "mesh": 0
+    },
+    {
+      "name": "guns_baked",
+      "translation": [
+        0,
+        0.03461260348558426,
+        0
+      ],
+      "mesh": 1
+    },
+    {
+      "name": "turrets_baked",
+      "translation": [
+        0.002514274325221777,
+        -0.207907572388649,
+        -0.5028793811798096
+      ],
+      "scale": [
+        1.2000000476837158,
+        1.2000000476837158,
+        1.2000000476837158
+      ],
+      "mesh": 2
+    },
+    {
+      "name": "base_baked",
+      "translation": [
+        0,
+        0,
+        -0.10383780300617218
+      ],
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ],
+      "mesh": 3,
+      "children": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "name": "trail_top",
+      "extras": {
+        "NAEV_trail_generator": "sirius"
+      },
+      "translation": [
+        0,
+        0.8244569897651672,
+        -9.74411392211914
+      ],
+      "scale": [
+        0.9465317726135254,
+        0.9465317726135254,
+        0.9465317726135254
+      ]
+    },
+    {
+      "name": "mount_weap1",
+      "extras": {
+        "NAEV_weapon_mount": "1"
+      },
+      "translation": [
+        -0.6172760128974915,
+        1.8232121467590332,
+        3.2946252822875977
+      ],
+      "scale": [
+        0.6615581512451172,
+        0.6615581512451172,
+        0.6615581512451172
+      ]
+    },
+    {
+      "name": "mount_weap0",
+      "extras": {
+        "NAEV_weapon_mount": "0"
+      },
+      "translation": [
+        0.617275595664978,
+        1.8232121467590332,
+        3.2946252822875977
+      ],
+      "scale": [
+        0.6615581512451172,
+        0.6615581512451172,
+        0.6615581512451172
+      ]
+    },
+    {
+      "name": "mount_weap4",
+      "extras": {
+        "NAEV_weapon_mount": "4"
+      },
+      "translation": [
+        0.617275595664978,
+        1.239035725593567,
+        8.852048873901367
+      ],
+      "scale": [
+        0.6615581512451172,
+        0.6615581512451172,
+        0.6615581512451172
+      ]
+    },
+    {
+      "name": "mount_weap5",
+      "extras": {
+        "NAEV_weapon_mount": "5"
+      },
+      "translation": [
+        -0.6172760128974915,
+        1.239035725593567,
+        8.852048873901367
+      ],
+      "scale": [
+        0.6615581512451172,
+        0.6615581512451172,
+        0.6615581512451172
+      ]
+    },
+    {
+      "name": "trail_bottom",
+      "extras": {
+        "NAEV_trail_generator": "sirius"
+      },
+      "translation": [
+        0,
+        -1.2549558877944946,
+        -10.614689826965332
+      ],
+      "scale": [
+        0.9465317726135254,
+        0.9465317726135254,
+        0.9465317726135254
+      ]
+    },
+    {
+      "name": "trail_nebula_left",
+      "extras": {
+        "NAEV_trail_generator": "nebula"
+      },
+      "translation": [
+        3.192100763320923,
+        0.19011712074279785,
+        -3.303051471710205
+      ],
+      "scale": [
+        0.9465317726135254,
+        0.9465317726135254,
+        0.9465317726135254
+      ]
+    },
+    {
+      "name": "trail_nebula_right",
+      "extras": {
+        "NAEV_trail_generator": "nebula"
+      },
+      "translation": [
+        -3.1921000480651855,
+        0.19011712074279785,
+        -3.303051471710205
+      ],
+      "scale": [
+        0.9465317726135254,
+        0.9465317726135254,
+        0.9465317726135254
+      ]
+    },
+    {
+      "name": "mount_fb2",
+      "extras": {
+        "NAEV_weapon_mount": "2"
+      },
+      "translation": [
+        -0.0066719651222229,
+        -2.5172929763793945,
+        -3.5289688110351562
+      ],
+      "scale": [
+        0.6615581512451172,
+        0.6615581512451172,
+        0.6615581512451172
+      ]
+    },
+    {
+      "name": "mount_fb3",
+      "extras": {
+        "NAEV_weapon_mount": "3"
+      },
+      "translation": [
+        -0.0066719651222229,
+        -1.3236539363861084,
+        6.15578556060791
+      ],
+      "scale": [
+        0.6615581512451172,
+        0.6615581512451172,
+        0.6615581512451172
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "name": "base",
+      "extras": {
+        "BBB_props": {}
+      },
+      "nodes": [
+        3
+      ]
+    },
+    {
+      "name": "engine",
+      "extras": {
+        "BBB_props": {}
+      },
+      "nodes": [
+        4,
+        8
+      ]
+    },
+    {
+      "name": "meta",
+      "nodes": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    }
+  ],
+  "scene": 0,
+  "extensionsUsed": [
+    "EXT_texture_webp"
+  ],
+  "extensionsRequired": [
+    "EXT_texture_webp"
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v4.0.1",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 3417,
+      "max": [
+        24.094749450683594,
+        36.68780517578125,
+        21.411800384521484
+      ],
+      "min": [
+        -24.094749450683594,
+        -99.90689849853516,
+        -21.411800384521484
+      ],
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 3417,
+      "bufferView": 0,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 3417,
+      "bufferView": 0,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 9186,
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 1140,
+      "bufferView": 1,
+      "byteOffset": 18372
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 120,
+      "bufferView": 1,
+      "byteOffset": 20652
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 808,
+      "max": [
+        90.02510070800781,
+        107.92500305175781,
+        29.136899948120117
+      ],
+      "min": [
+        -89.97489929199219,
+        -92.61599731445312,
+        -58.7505989074707
+      ],
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 808,
+      "bufferView": 2,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 808,
+      "bufferView": 2,
+      "byteOffset": 24
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 808,
+      "bufferView": 2,
+      "byteOffset": 32
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 52,
+      "max": [
+        3.50314998626709,
+        -6.743786811828613,
+        18.618499755859375
+      ],
+      "min": [
+        -3.503000020980835,
+        -113.38829040527344,
+        4.9787797927856445
+      ],
+      "bufferView": 3,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 52,
+      "bufferView": 3,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 52,
+      "bufferView": 3,
+      "byteOffset": 24
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 109344,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 109344,
+      "byteLength": 20892,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 130236,
+      "byteLength": 32320,
+      "byteStride": 40,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 162556,
+      "byteLength": 1664,
+      "byteStride": 32,
+      "target": 34962
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 2
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 0
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 1
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 5
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 3
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 4
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 6
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 7
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 8
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 9
+        }
+      }
+    }
+  ],
+  "images": [
+    {
+      "name": "seaxbaneGLO",
+      "mimeType": "image/webp",
+      "uri": "seaxbaneGLO.webp"
+    },
+    {
+      "name": "AO_bake_drone",
+      "mimeType": "image/webp",
+      "uri": "AO_bake_drone.webp"
+    },
+    {
+      "name": "seaxbane",
+      "mimeType": "image/webp",
+      "uri": "seaxbane.webp"
+    },
+    {
+      "name": "hyenaGLO",
+      "mimeType": "image/webp",
+      "uri": "hyenaGLO.webp"
+    },
+    {
+      "name": "AO_bake",
+      "mimeType": "image/webp",
+      "uri": "AO_bake.webp"
+    },
+    {
+      "name": "hyena",
+      "mimeType": "image/webp",
+      "uri": "hyena.webp"
+    },
+    {
+      "name": "GLO_bake_drone",
+      "mimeType": "image/webp",
+      "uri": "GLO_bake_drone.webp"
+    },
+    {
+      "name": "gradient_pale",
+      "mimeType": "image/webp",
+      "uri": "../textures/gradient_pale.webp"
+    },
+    {
+      "name": "GLO_bake_hyena",
+      "mimeType": "image/webp",
+      "uri": "GLO_bake_hyena.webp"
+    },
+    {
+      "name": "AO_bake_hyena",
+      "mimeType": "image/webp",
+      "uri": "AO_bake_hyena.webp"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "drone_hyena.bin",
+      "byteLength": 164220
+    }
+  ],
+  "materials": [
+    {
+      "name": "base",
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.699999988079071,
+        "metallicFactor": 0.5,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 1
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "base_hyena",
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.4000000059604645,
+        "metallicFactor": 0.699999988079071,
+        "baseColorTexture": {
+          "index": 3
+        }
+      },
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 4
+      },
+      "occlusionTexture": {
+        "index": 5,
+        "texCoord": 1
+      }
+    },
+    {
+      "name": "base_glow",
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.699999988079071,
+        "metallicFactor": 0.5,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 6
+      },
+      "occlusionTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "engine_glow_thurion_solid",
+      "alphaMode": "BLEND",
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.75,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 7
+        }
+      },
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 7
+      }
+    },
+    {
+      "name": "base_hyena_glow",
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.4000000059604645,
+        "metallicFactor": 0.699999988079071,
+        "baseColorTexture": {
+          "index": 3
+        }
+      },
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 8,
+        "texCoord": 1
+      },
+      "occlusionTexture": {
+        "index": 9,
+        "texCoord": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "base",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 3
+        }
+      ]
+    },
+    {
+      "name": "hyena",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 4
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "mode": 4,
+          "material": 2,
+          "indices": 3
+        }
+      ]
+    },
+    {
+      "name": "glow",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 10,
+            "NORMAL": 11,
+            "TEXCOORD_0": 12
+          },
+          "mode": 4,
+          "material": 3,
+          "indices": 5
+        }
+      ]
+    },
+    {
+      "name": "hyena",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9
+          },
+          "mode": 4,
+          "material": 4,
+          "indices": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "base",
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+      ],
+      "mesh": 0
+    },
+    {
+      "name": "base_hyena",
+      "translation": [
+        0,
+        6.796011924743652,
+        -19.336355209350586
+      ],
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+      ],
+      "scale": [
+        0.5527542233467102,
+        0.5527542233467102,
+        0.5527542233467102
+      ],
+      "mesh": 1
+    },
+    {
+      "name": "base_glow",
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+      ],
+      "mesh": 2
+    },
+    {
+      "name": "glow",
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+      ],
+      "scale": [
+        1.0056310892105103,
+        1.0056310892105103,
+        1.0056310892105103
+      ],
+      "mesh": 3
+    },
+    {
+      "name": "base_glow_hyena",
+      "translation": [
+        0,
+        6.796011924743652,
+        -19.336355209350586
+      ],
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+      ],
+      "scale": [
+        0.5527542233467102,
+        0.5527542233467102,
+        0.5527542233467102
+      ],
+      "mesh": 4
+    },
+    {
+      "name": "mount_small_left",
+      "extras": {
+        "NAEV_weapon_mount": "0"
+      },
+      "translation": [
+        21.57086181640625,
+        -6.579630374908447,
+        11.577037811279297
+      ],
+      "scale": [
+        3.968402147293091,
+        3.968402147293091,
+        3.968402147293091
+      ]
+    },
+    {
+      "name": "trail_center",
+      "extras": {
+        "NAEV_trail_generator": "default"
+      },
+      "translation": [
+        0,
+        -9.377607345581055,
+        -5.39778470993042
+      ],
+      "scale": [
+        5.166032791137695,
+        5.166032791137695,
+        5.166032791137695
+      ]
+    },
+    {
+      "name": "mount_small_right",
+      "extras": {
+        "NAEV_weapon_mount": "1"
+      },
+      "translation": [
+        -21.570899963378906,
+        -6.579630374908447,
+        11.577037811279297
+      ],
+      "scale": [
+        3.968402147293091,
+        3.968402147293091,
+        3.968402147293091
+      ]
+    },
+    {
+      "name": "mount_small_center",
+      "extras": {
+        "NAEV_weapon_mount": "2"
+      },
+      "translation": [
+        0,
+        19.324270248413086,
+        17.661848068237305
+      ],
+      "scale": [
+        3.968402147293091,
+        3.968402147293091,
+        3.968402147293091
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "name": "base",
+      "extras": {
+        "BBB_props": {}
+      },
+      "nodes": [
+        0,
+        1
+      ]
+    },
+    {
+      "name": "engine",
+      "extras": {
+        "BBB_props": {}
+      },
+      "nodes": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "meta",
+      "nodes": [
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "scene": 0,
+  "extensionsUsed": [
+    "EXT_texture_webp"
+  ],
+  "extensionsRequired": [
+    "EXT_texture_webp"
+  ]
+}
