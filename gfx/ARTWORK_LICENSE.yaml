@@ -57,7 +57,7 @@
       - 003.webp
     spfx:
     - cargo.webp
-    ship:
+    ship3d:
       admonisher:
       - \*
       ancestor:
@@ -367,7 +367,7 @@
       - zalek_station2.webp
       - obelisk_sirius.webp
       - obelisk_pirate.webp
-    ship:
+    ship3d:
       apparition:
       - \*
       archimedes:
@@ -416,7 +416,7 @@
       - city_landing_pad.webp
 - M. R. Bokhari "Viruk" <withextremeprejudice@gmail.com>, Viktor Hahn:
     license: CC-by-sa 3.0
-    ship:
+    ship3d:
       arx:
       - arx_feral_comm.webp
       - arx_feral_engine.webp
@@ -476,7 +476,7 @@
     spob:
       space:
       - zalek_hq.webp
-    ship:
+    ship3d:
       arx:
       - \*
       brigand:
@@ -654,7 +654,7 @@
       - fueltank.webp
       - medium_fuel_pod.webp
       - laser2.webp
-    ship:
+    ship3d:
     - peacemaker
     loading:
     - kestrel_pirate.webp
@@ -663,7 +663,7 @@
     - icon.webp
 - Josiah Schwartfeger (retextured by Areze):
     license: CC-by 3.0
-    ship:
+    ship3d:
     - kestrel
 - Josiah Schwartfeger, modified by Viktor Hahn:
     license: CC-by 3.0
@@ -734,7 +734,7 @@
     - fidelity.webp
     - preacher.webp
     - shaman.webp
-    ship:
+    ship3d:
     - divinity
     - dogma
     - fidelity
@@ -841,7 +841,7 @@
       - C01.webp
 - Alexander Huitric <ahuitric@gmail.com>:
     license: CC-by-sa 3
-    ship:
+    ship3d:
     - ingenuity
 - Alexander Huitric <ahuitric@gmail.com>, Viktor Hahn:
     license: CC-by-sa 3
@@ -872,7 +872,7 @@
     - shark_pirate.webp
     - shark.webp
     - rhino.webp
-    ship:
+    ship3d:
     - shark
     - rhino
     spob:
@@ -880,7 +880,7 @@
       - wrath.webp
 - bornloser:
     license: CC-by-sa 3.0
-    ship:
+    ship3d:
     - phalanx
 - Andmiw:
     license: CC-by-sa 3.0
@@ -1023,7 +1023,7 @@
       - core_system_basic_m1.webp
       space:
       - convulsion.png
-    ship:
+    ship3d:
       apprehension:
       - \*
       certitude:
