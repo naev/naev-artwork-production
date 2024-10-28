@@ -241,7 +241,7 @@
       - sfc.webp
       - shatterer.webp
       store:
-      - antimatter_lance.png
+      - antimatter_lance.webp
       - agility_combat_ai.webp
       - berserk_chip.webp
       - bioneural_combat_ai.webp
@@ -249,10 +249,14 @@
       - cyclic_combat_ai.webp
       - dalton_bay.webp
       - dalton_dock.webp
+      - disruptor1.webp
+      - disruptor2.webp
+      - disruptor_battery2.webp
       - drill_lance.webp
       - efficiency_combat_ai.webp
       - emergency_stasis_inducer.webp
       - faraday_tempest_coating.webp
+      - flicker_drive.webp
       - grave_beam.webp
       - grave_lance.webp
       - hive_combat_ai.webp
@@ -276,6 +280,10 @@
       - organic_plasma_t.webp
       - particle_beam.webp
       - particle_lance.webp
+      - pd1.webp
+      - pd2.webp
+      - pd3.webp
+      - pd4.webp
       - photovoltaic_nanobot_coating.webp
       - pinpoint_combat_ai.webp
       - razor1.webp
