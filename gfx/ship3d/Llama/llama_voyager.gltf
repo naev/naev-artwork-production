@@ -36,13 +36,6 @@
       "byteOffset": 24
     },
     {
-      "type": "VEC2",
-      "componentType": 5126,
-      "count": 1498,
-      "bufferView": 0,
-      "byteOffset": 32
-    },
-    {
       "type": "SCALAR",
       "componentType": 5123,
       "count": 3954,
@@ -92,19 +85,19 @@
     {
       "buffer": 0,
       "byteOffset": 0,
-      "byteLength": 59920,
-      "byteStride": 40,
+      "byteLength": 47936,
+      "byteStride": 32,
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteOffset": 59920,
+      "byteOffset": 47936,
       "byteLength": 8628,
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteOffset": 68548,
+      "byteOffset": 56564,
       "byteLength": 8448,
       "byteStride": 32,
       "target": 34962
@@ -159,9 +152,9 @@
       "uri": "llama_voyagerGLO.webp"
     },
     {
-      "name": "AO_bake_body",
+      "name": "AO_bake_voyager",
       "mimeType": "image/webp",
-      "uri": "AO_bake_body.webp"
+      "uri": "AO_bake_voyager.webp"
     },
     {
       "name": "llama_voyager",
@@ -177,7 +170,7 @@
   "buffers": [
     {
       "uri": "llama_voyager.bin",
-      "byteLength": 76996
+      "byteLength": 65012
     }
   ],
   "materials": [
@@ -187,8 +180,7 @@
         "roughnessFactor": 0.4000000059604645,
         "metallicFactor": 0.6000000238418579,
         "baseColorTexture": {
-          "index": 0,
-          "texCoord": 1
+          "index": 0
         }
       },
       "emissiveFactor": [
@@ -197,8 +189,7 @@
         1
       ],
       "emissiveTexture": {
-        "index": 1,
-        "texCoord": 1
+        "index": 1
       },
       "occlusionTexture": {
         "index": 2
@@ -232,12 +223,11 @@
           "attributes": {
             "POSITION": 0,
             "NORMAL": 1,
-            "TEXCOORD_0": 2,
-            "TEXCOORD_1": 3
+            "TEXCOORD_0": 2
           },
           "mode": 4,
           "material": 0,
-          "indices": 4
+          "indices": 3
         }
       ]
     },
@@ -246,13 +236,13 @@
       "primitives": [
         {
           "attributes": {
-            "POSITION": 6,
-            "NORMAL": 7,
-            "TEXCOORD_0": 8
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7
           },
           "mode": 4,
           "material": 1,
-          "indices": 5
+          "indices": 4
         }
       ]
     }
@@ -280,22 +270,6 @@
     },
     {
       "name": "glow",
-      "translation": [
-        0,
-        0,
-        1.0727512836456299
-      ],
-      "rotation": [
-        0.7071068286895752,
-        0,
-        0,
-        0.7071068286895752
-      ],
-      "scale": [
-        1.0965317487716675,
-        1.0965317487716675,
-        1.0965317487716675
-      ],
       "mesh": 1
     },
     {
@@ -394,7 +368,7 @@
       ]
     }
   ],
-  "scene": 1,
+  "scene": 0,
   "extensionsUsed": [
     "EXT_texture_webp"
   ],
