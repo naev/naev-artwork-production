@@ -1,6 +1,6 @@
 {
   "asset": {
-    "generator": "glTF-Transform v4.0.10",
+    "generator": "glTF-Transform v4.1.0",
     "version": "2.0"
   },
   "accessors": [
@@ -296,43 +296,113 @@
       "name": "mount_small_left",
       "extras": {
         "NAEV_weapon_mount": "0"
-      }
+      },
+      "translation": [
+        1.1616421937942505,
+        -0.28769534826278687,
+        2.696349859237671
+      ],
+      "scale": [
+        0.5065763592720032,
+        0.5065763592720032,
+        0.5065763592720032
+      ]
     },
     {
       "name": "trail_left",
       "extras": {
         "NAEV_trail_generator": "melendezS"
-      }
+      },
+      "translation": [
+        1.6566277742385864,
+        -0.14664460718631744,
+        -1.8029420375823975
+      ],
+      "scale": [
+        0.5065763592720032,
+        0.5065763592720032,
+        0.5065763592720032
+      ]
     },
     {
       "name": "trail_right",
       "extras": {
         "NAEV_trail_generator": "melendezS"
-      }
+      },
+      "translation": [
+        -1.6639747619628906,
+        -0.167898029088974,
+        -1.8029420375823975
+      ],
+      "scale": [
+        0.5065763592720032,
+        0.5065763592720032,
+        0.5065763592720032
+      ]
     },
     {
       "name": "trail_center",
       "extras": {
         "NAEV_trail_generator": "melendezS"
-      }
+      },
+      "translation": [
+        0,
+        0.3702361285686493,
+        -2.0264077186584473
+      ],
+      "scale": [
+        0.5065763592720032,
+        0.5065763592720032,
+        0.5065763592720032
+      ]
     },
     {
       "name": "trail_nebula_left",
       "extras": {
         "NAEV_trail_generator": "nebulaS"
-      }
+      },
+      "translation": [
+        3.7011756896972656,
+        -0.8300110101699829,
+        -1.9068888425827026
+      ],
+      "scale": [
+        0.5065763592720032,
+        0.5065763592720032,
+        0.5065763592720032
+      ]
     },
     {
       "name": "trail_nebula_right",
       "extras": {
         "NAEV_trail_generator": "nebulaS"
-      }
+      },
+      "translation": [
+        -3.6927967071533203,
+        -0.8300110101699829,
+        -1.9068888425827026
+      ],
+      "scale": [
+        0.5065763592720032,
+        0.5065763592720032,
+        0.5065763592720032
+      ]
     },
     {
       "name": "mount_small_right",
       "extras": {
         "NAEV_weapon_mount": "1"
-      }
+      },
+      "translation": [
+        -1.1616400480270386,
+        -0.28769534826278687,
+        2.696349859237671
+      ],
+      "scale": [
+        0.5065763592720032,
+        0.5065763592720032,
+        0.5065763592720032
+      ]
     }
   ],
   "scenes": [
@@ -368,7 +438,7 @@
       ]
     }
   ],
-  "scene": 0,
+  "scene": 2,
   "extensionsUsed": [
     "EXT_texture_webp"
   ],
