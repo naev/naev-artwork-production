@@ -52,14 +52,14 @@
     {
       "type": "VEC3",
       "componentType": 5126,
-      "count": 264,
+      "count": 114,
       "max": [
         1.7514078617095947,
         -2.6291449069976807,
         0.35430437326431274
       ],
       "min": [
-        -1.5240600109100342,
+        -1.7514078617095947,
         -4.511364459991455,
         -0.5488330125808716
       ],
@@ -69,14 +69,14 @@
     {
       "type": "VEC3",
       "componentType": 5126,
-      "count": 264,
+      "count": 114,
       "bufferView": 2,
       "byteOffset": 12
     },
     {
       "type": "VEC2",
       "componentType": 5126,
-      "count": 264,
+      "count": 114,
       "bufferView": 2,
       "byteOffset": 24
     }
@@ -98,7 +98,7 @@
     {
       "buffer": 0,
       "byteOffset": 56564,
-      "byteLength": 8448,
+      "byteLength": 3648,
       "byteStride": 32,
       "target": 34962
     }
@@ -170,7 +170,7 @@
   "buffers": [
     {
       "uri": "llama_voyager.bin",
-      "byteLength": 65012
+      "byteLength": 60212
     }
   ],
   "materials": [
