@@ -411,7 +411,7 @@
     {
       "name": "trail_top_left",
       "extras": {
-        "NAEV_trail_generator": "nebula"
+        "NAEV_trail_generator": "thurion"
       },
       "translation": [
         1.1064997911453247,
@@ -459,7 +459,7 @@
     {
       "name": "trail_nebula_left",
       "extras": {
-        "NAEV_trail_generator": "thurion"
+        "NAEV_trail_generator": "nebula"
       },
       "translation": [
         2.429764747619629,
@@ -475,7 +475,7 @@
     {
       "name": "trail_nebula_right",
       "extras": {
-        "NAEV_trail_generator": "thurion"
+        "NAEV_trail_generator": "nebula"
       },
       "translation": [
         -2.429759979248047,
