@@ -221,6 +221,9 @@
     - blackhole.webp
     misc:
     - onion_society.webp
+    ship3d:
+      Sphere:
+      - \*
 - Fernando L. Copercini "Bisc88" <fernandoluis1732@yahoo.com.br>:
     license: GPLv3+
     spob:
