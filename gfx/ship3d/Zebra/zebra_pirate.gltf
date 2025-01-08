@@ -1,6 +1,6 @@
 {
   "asset": {
-    "generator": "glTF-Transform v4.0.1",
+    "generator": "glTF-Transform v4.1.1",
     "version": "2.0"
   },
   "accessors": [
@@ -201,18 +201,18 @@
       "byteOffset": 0
     },
     {
-      "type": "VEC4",
+      "type": "VEC3",
       "componentType": 5126,
       "count": 2,
       "bufferView": 6,
       "byteOffset": 8
     },
     {
-      "type": "VEC3",
+      "type": "VEC4",
       "componentType": 5126,
       "count": 2,
       "bufferView": 6,
-      "byteOffset": 40
+      "byteOffset": 32
     },
     {
       "type": "VEC3",
@@ -236,34 +236,27 @@
       "byteOffset": 120
     },
     {
-      "type": "VEC4",
+      "type": "VEC3",
       "componentType": 5126,
       "count": 2,
       "bufferView": 6,
       "byteOffset": 152
     },
     {
-      "type": "VEC3",
+      "type": "VEC4",
       "componentType": 5126,
       "count": 2,
       "bufferView": 6,
-      "byteOffset": 184
+      "byteOffset": 176
     },
     {
-      "type": "VEC4",
+      "type": "VEC3",
       "componentType": 5126,
       "count": 2,
       "bufferView": 6,
       "byteOffset": 208
     },
     {
-      "type": "VEC3",
-      "componentType": 5126,
-      "count": 2,
-      "bufferView": 6,
-      "byteOffset": 240
-    },
-    {
       "type": "SCALAR",
       "componentType": 5126,
       "count": 5,
@@ -274,21 +267,21 @@
         0
       ],
       "bufferView": 6,
-      "byteOffset": 264
+      "byteOffset": 232
     },
     {
       "type": "VEC4",
       "componentType": 5126,
       "count": 5,
       "bufferView": 6,
-      "byteOffset": 284
+      "byteOffset": 252
     },
     {
       "type": "VEC4",
       "componentType": 5126,
       "count": 5,
       "bufferView": 6,
-      "byteOffset": 364
+      "byteOffset": 332
     },
     {
       "type": "SCALAR",
@@ -301,14 +294,14 @@
         0
       ],
       "bufferView": 6,
-      "byteOffset": 444
+      "byteOffset": 412
     },
     {
       "type": "VEC4",
       "componentType": 5126,
       "count": 3,
       "bufferView": 6,
-      "byteOffset": 456
+      "byteOffset": 424
     },
     {
       "type": "VEC3",
@@ -366,7 +359,7 @@
     {
       "buffer": 0,
       "byteOffset": 848704,
-      "byteLength": 504
+      "byteLength": 472
     }
   ],
   "samplers": [
@@ -501,7 +494,7 @@
   "buffers": [
     {
       "uri": "zebra_pirate.bin",
-      "byteLength": 849208
+      "byteLength": 849176
     }
   ],
   "materials": [
@@ -713,10 +706,10 @@
         0
       ],
       "rotation": [
-        -0.06279050558805466,
-        -2.1812567752022005e-8,
-        -0.9980267286300659,
-        1.372330138416089e-9
+        1,
+        0,
+        0,
+        3.774895063202166e-8
       ],
       "mesh": 2
     },
@@ -768,10 +761,6 @@
       "mesh": 4
     },
     {
-      "name": "Base",
-      "mesh": 0
-    },
-    {
       "name": "Bone",
       "translation": [
         0,
@@ -798,15 +787,57 @@
     {
       "name": "ForwardBone",
       "children": [
-        12
+        11
       ]
     },
     {
       "name": "Armature",
       "children": [
-        11,
-        13
+        10,
+        12
       ]
+    },
+    {
+      "name": "BarrelLP.001",
+      "translation": [
+        0,
+        -7,
+        0
+      ],
+      "rotation": [
+        -1,
+        0,
+        0,
+        2.1855694143368964e-8
+      ],
+      "mesh": 2
+    },
+    {
+      "name": "BackwardsBone",
+      "translation": [
+        0,
+        0,
+        -7
+      ],
+      "rotation": [
+        -0.7071067690849304,
+        0,
+        0,
+        0.7071067690849304
+      ],
+      "children": [
+        14
+      ]
+    },
+    {
+      "name": "Backwards",
+      "children": [
+        15
+      ]
+    },
+    {
+      "name": "Base",
+      "mesh": 0
     },
     {
       "name": "mount_fb0",
@@ -1005,13 +1036,8 @@
   ],
   "animations": [
     {
-      "name": "Action",
+      "name": "ActionForward",
       "samplers": [
-        {
-          "input": 19,
-          "output": 34,
-          "interpolation": "STEP"
-        },
         {
           "input": 19,
           "output": 20,
@@ -1021,38 +1047,15 @@
           "input": 19,
           "output": 21,
           "interpolation": "STEP"
-        }
-      ],
-      "channels": [
-        {
-          "sampler": 0,
-          "target": {
-            "node": 0,
-            "path": "translation"
-          }
         },
-        {
-          "sampler": 1,
-          "target": {
-            "node": 0,
-            "path": "rotation"
-          }
-        },
-        {
-          "sampler": 2,
-          "target": {
-            "node": 0,
-            "path": "scale"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Action.003",
-      "samplers": [
         {
           "input": 19,
           "output": 22,
+          "interpolation": "STEP"
+        },
+        {
+          "input": 19,
+          "output": 33,
           "interpolation": "STEP"
         },
         {
@@ -1062,22 +1065,7 @@
         },
         {
           "input": 19,
-          "output": 21,
-          "interpolation": "STEP"
-        },
-        {
-          "input": 19,
-          "output": 35,
-          "interpolation": "STEP"
-        },
-        {
-          "input": 19,
-          "output": 24,
-          "interpolation": "STEP"
-        },
-        {
-          "input": 19,
-          "output": 21,
+          "output": 22,
           "interpolation": "STEP"
         },
         {
@@ -1086,13 +1074,13 @@
           "interpolation": "STEP"
         },
         {
-          "input": 29,
-          "output": 30,
+          "input": 28,
+          "output": 29,
           "interpolation": "LINEAR"
         },
         {
           "input": 19,
-          "output": 21,
+          "output": 22,
           "interpolation": "STEP"
         }
       ],
@@ -1172,12 +1160,12 @@
         },
         {
           "input": 19,
-          "output": 25,
+          "output": 24,
           "interpolation": "STEP"
         },
         {
           "input": 19,
-          "output": 21,
+          "output": 22,
           "interpolation": "STEP"
         }
       ],
@@ -1206,8 +1194,13 @@
       ]
     },
     {
-      "name": "Action.004",
+      "name": "ActionBackwards",
       "samplers": [
+        {
+          "input": 19,
+          "output": 25,
+          "interpolation": "STEP"
+        },
         {
           "input": 19,
           "output": 26,
@@ -1215,12 +1208,7 @@
         },
         {
           "input": 19,
-          "output": 27,
-          "interpolation": "STEP"
-        },
-        {
-          "input": 19,
-          "output": 21,
+          "output": 22,
           "interpolation": "STEP"
         },
         {
@@ -1229,13 +1217,13 @@
           "interpolation": "STEP"
         },
         {
-          "input": 29,
-          "output": 31,
+          "input": 28,
+          "output": 30,
           "interpolation": "LINEAR"
         },
         {
           "input": 19,
-          "output": 21,
+          "output": 22,
           "interpolation": "STEP"
         }
       ],
@@ -1289,17 +1277,17 @@
       "samplers": [
         {
           "input": 19,
-          "output": 28,
+          "output": 27,
           "interpolation": "STEP"
         },
         {
-          "input": 32,
-          "output": 33,
+          "input": 31,
+          "output": 32,
           "interpolation": "LINEAR"
         },
         {
           "input": 19,
-          "output": 21,
+          "output": 22,
           "interpolation": "STEP"
         }
       ],
@@ -1328,13 +1316,8 @@
       ]
     },
     {
-      "name": "Action",
+      "name": "ActionForward",
       "samplers": [
-        {
-          "input": 19,
-          "output": 34,
-          "interpolation": "STEP"
-        },
         {
           "input": 19,
           "output": 20,
@@ -1344,38 +1327,15 @@
           "input": 19,
           "output": 21,
           "interpolation": "STEP"
-        }
-      ],
-      "channels": [
-        {
-          "sampler": 0,
-          "target": {
-            "node": 10,
-            "path": "translation"
-          }
         },
-        {
-          "sampler": 1,
-          "target": {
-            "node": 10,
-            "path": "rotation"
-          }
-        },
-        {
-          "sampler": 2,
-          "target": {
-            "node": 10,
-            "path": "scale"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Action.003",
-      "samplers": [
         {
           "input": 19,
           "output": 22,
+          "interpolation": "STEP"
+        },
+        {
+          "input": 19,
+          "output": 33,
           "interpolation": "STEP"
         },
         {
@@ -1385,22 +1345,7 @@
         },
         {
           "input": 19,
-          "output": 21,
-          "interpolation": "STEP"
-        },
-        {
-          "input": 19,
-          "output": 35,
-          "interpolation": "STEP"
-        },
-        {
-          "input": 19,
-          "output": 24,
-          "interpolation": "STEP"
-        },
-        {
-          "input": 19,
-          "output": 21,
+          "output": 22,
           "interpolation": "STEP"
         },
         {
@@ -1409,13 +1354,13 @@
           "interpolation": "STEP"
         },
         {
-          "input": 29,
-          "output": 30,
+          "input": 28,
+          "output": 29,
           "interpolation": "LINEAR"
         },
         {
           "input": 19,
-          "output": 21,
+          "output": 22,
           "interpolation": "STEP"
         }
       ],
@@ -1423,63 +1368,63 @@
         {
           "sampler": 0,
           "target": {
-            "node": 11,
+            "node": 10,
             "path": "translation"
           }
         },
         {
           "sampler": 1,
           "target": {
-            "node": 11,
+            "node": 10,
             "path": "rotation"
           }
         },
         {
           "sampler": 2,
           "target": {
-            "node": 11,
+            "node": 10,
             "path": "scale"
           }
         },
         {
           "sampler": 3,
           "target": {
-            "node": 13,
+            "node": 12,
             "path": "translation"
           }
         },
         {
           "sampler": 4,
           "target": {
-            "node": 13,
+            "node": 12,
             "path": "rotation"
           }
         },
         {
           "sampler": 5,
           "target": {
-            "node": 13,
+            "node": 12,
             "path": "scale"
           }
         },
         {
           "sampler": 6,
           "target": {
-            "node": 14,
+            "node": 13,
             "path": "translation"
           }
         },
         {
           "sampler": 7,
           "target": {
-            "node": 14,
+            "node": 13,
             "path": "rotation"
           }
         },
         {
           "sampler": 8,
           "target": {
-            "node": 14,
+            "node": 13,
             "path": "scale"
           }
         }
@@ -1495,12 +1440,12 @@
         },
         {
           "input": 19,
-          "output": 25,
+          "output": 24,
           "interpolation": "STEP"
         },
         {
           "input": 19,
-          "output": 21,
+          "output": 22,
           "interpolation": "STEP"
         }
       ],
@@ -1508,21 +1453,143 @@
         {
           "sampler": 0,
           "target": {
-            "node": 12,
+            "node": 11,
             "path": "translation"
           }
         },
         {
           "sampler": 1,
           "target": {
-            "node": 12,
+            "node": 11,
             "path": "rotation"
           }
         },
         {
           "sampler": 2,
           "target": {
-            "node": 12,
+            "node": 11,
+            "path": "scale"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ActionBackwards",
+      "samplers": [
+        {
+          "input": 19,
+          "output": 25,
+          "interpolation": "STEP"
+        },
+        {
+          "input": 19,
+          "output": 26,
+          "interpolation": "STEP"
+        },
+        {
+          "input": 19,
+          "output": 22,
+          "interpolation": "STEP"
+        },
+        {
+          "input": 19,
+          "output": 34,
+          "interpolation": "STEP"
+        },
+        {
+          "input": 28,
+          "output": 30,
+          "interpolation": "LINEAR"
+        },
+        {
+          "input": 19,
+          "output": 22,
+          "interpolation": "STEP"
+        }
+      ],
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 15,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 15,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 15,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 3,
+          "target": {
+            "node": 16,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 4,
+          "target": {
+            "node": 16,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 5,
+          "target": {
+            "node": 16,
+            "path": "scale"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Action.001",
+      "samplers": [
+        {
+          "input": 19,
+          "output": 27,
+          "interpolation": "STEP"
+        },
+        {
+          "input": 31,
+          "output": 32,
+          "interpolation": "LINEAR"
+        },
+        {
+          "input": 19,
+          "output": 22,
+          "interpolation": "STEP"
+        }
+      ],
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 14,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 14,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 14,
             "path": "scale"
           }
         }
@@ -1543,16 +1610,14 @@
       "nodes": [
         8,
         9,
-        10
+        13,
+        16,
+        17
       ]
     },
     {
       "name": "meta",
       "nodes": [
-        14,
-        15,
-        16,
-        17,
         18,
         19,
         20,
@@ -1563,11 +1628,14 @@
         25,
         26,
         27,
-        28
+        28,
+        29,
+        30,
+        31
       ]
     }
   ],
-  "scene": 2,
+  "scene": 0,
   "extensionsUsed": [
     "EXT_texture_webp"
   ],
