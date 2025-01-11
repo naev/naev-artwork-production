@@ -1765,6 +1765,7 @@
     license: CC-by-sa 4.0
     vn:
       characters:
+        - liao.webp
         - mapmaker.webp
         - neutral:
           - bartender_f1.webp
@@ -1812,6 +1813,7 @@
               - captain_leblanc.webp
     gfx:
       portraits:
+        - liao.webp
         - mapmaker.webp
         - neutral:
           - bartender_f1.webp
