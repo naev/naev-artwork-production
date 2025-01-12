@@ -1813,6 +1813,7 @@
     license: CC-by-sa 4.0
     vn:
       characters:
+        - liao.webp
         - mapmaker.webp
         - neutral:
           - bartender_f1.webp
@@ -1854,8 +1855,13 @@
           - sirius_serra_m2.webp
           - sirius_serra_m3.webp
           - sirius_serra_m4.webp
+        - dvaered:
+          - unique:
+              - general_klank.webp
+              - captain_leblanc.webp
     gfx:
       portraits:
+        - liao.webp
         - mapmaker.webp
         - neutral:
           - bartender_f1.webp
@@ -1897,6 +1903,10 @@
           - sirius_serra_m2.webp
           - sirius_serra_m3.webp
           - sirius_serra_m4.webp
+        - dvaered:
+          - unique:
+              - general_klank.webp
+              - captain_leblanc.webp
       outfit:
         store:
         - map_local.webp
