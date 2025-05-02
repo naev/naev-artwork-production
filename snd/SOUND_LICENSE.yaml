@@ -287,6 +287,11 @@
     music:
     - 78pulse.ogg (https://freesound.org/people/kjartan_abel/sounds/541944/)
     - therewillbestars.ogg (https://freesound.org/people/kjartan_abel/sounds/532343/)
+    - nordic_winter_25_for_25.ogg (https://freesound.org/people/kjartan_abel/sounds/768490/)
+    - nordic_saxo.ogg (https://freesound.org/people/kjartan_abel/sounds/662394/)
+    - boschs_garden.ogg (https://freesound.org/people/kjartan_abel/sounds/647212/)
+    - winterstorm_1.ogg (https://freesound.org/people/kjartan_abel/sounds/541062/)
+    - peaceful_world.ogg (https://freesound.org/people/kjartan_abel/sounds/532935/)
 - russscott1:
     license: CC0
     sounds:
@@ -395,3 +400,26 @@
     sounds:
     - loops:
       - onion_hacker.ogg (https://freesound.org/people/eardeer/sounds/401612/)
+- X3nus:
+    license: CC-by 4.0
+    music:
+      - the_last_mystery.ogg (https://freesound.org/people/X3nus/sounds/475587/)
+      - meet_the_fish.ogg (https://freesound.org/people/X3nus/sounds/449934/)
+      - aquaman.ogg (https://freesound.org/people/X3nus/sounds/449937/)
+      - run_under_the_sun.ogg (https://freesound.org/people/X3nus/sounds/475588/)
+- Romariogrande:
+    license: CC0
+    music:
+      - methyl_swamp.ogg (https://freesound.org/people/Romariogrande/sounds/506338/)
+- SoundFlakes:
+    license: CC-by 4.0
+    music:
+      - wild_space.ogg (https://freesound.org/people/SoundFlakes/sounds/411997/)
+- Johnnie Holiday:
+    license: CC0
+    music:
+      - disco_melody.ogg (https://freesound.org/people/Johnnie_Holiday/sounds/693190/)
+- Kris Klavenes (klavo1985):
+    license: CC-by 4.0
+    music:
+      - end_of_time.ogg (https://freesound.org/people/klavo1985/sounds/388880/)
