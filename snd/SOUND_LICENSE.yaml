@@ -430,3 +430,11 @@
     music:
       - circus_after_dark.ogg (https://freesound.org/people/Victor_Natas/sounds/544898/)
       - pitch_black_pit.ogg (https://freesound.org/people/Victor_Natas/sounds/790001/)
+- szegvari:
+    license: CC0
+    music:
+      - dark_orchestra.ogg (https://freesound.org/people/szegvari/sounds/640134/)
+- tyops:
+    license: CC-by 4.0
+    music:
+      - ruined_suspense.ogg (https://freesound.org/people/tyops/sounds/427294/)
