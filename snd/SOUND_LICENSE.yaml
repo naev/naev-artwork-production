@@ -292,6 +292,10 @@
     - boschs_garden.ogg (https://freesound.org/people/kjartan_abel/sounds/647212/)
     - winterstorm_1.ogg (https://freesound.org/people/kjartan_abel/sounds/541062/)
     - peaceful_world.ogg (https://freesound.org/people/kjartan_abel/sounds/532935/)
+    - dreamy_homage.ogg (https://freesound.org/people/kjartan_abel/sounds/626466/)
+    - mellow_suspension.ogg (https://freesound.org/people/kjartan_abel/sounds/531854/)
+    - gonna_be_gone.ogg (https://freesound.org/people/kjartan_abel/sounds/640853/)
+    - snabba_labba.ogg (https://freesound.org/people/kjartan_abel/sounds/632406/)
 - russscott1:
     license: CC0
     sounds:
@@ -340,6 +344,8 @@
     sounds:
     - songs:
       - sad_drama.ogg (https://freesound.org/people/SoundFlakes/sounds/413732/)
+      - wild_space.ogg (https://freesound.org/people/SoundFlakes/sounds/411997/)
+      - space_emergency.ogg (https://freesound.org/people/SoundFlakes/sounds/493508/)
 - OptronTeam:
     license: CC-by 4.0
     sounds:
@@ -411,10 +417,6 @@
     license: CC0
     music:
       - methyl_swamp.ogg (https://freesound.org/people/Romariogrande/sounds/506338/)
-- SoundFlakes:
-    license: CC-by 4.0
-    music:
-      - wild_space.ogg (https://freesound.org/people/SoundFlakes/sounds/411997/)
 - Johnnie Holiday:
     license: CC0
     music:
@@ -423,3 +425,8 @@
     license: CC-by 4.0
     music:
       - end_of_time.ogg (https://freesound.org/people/klavo1985/sounds/388880/)
+- Victor Natas:
+    license: CC-by 4.0
+    music:
+      - circus_after_dark.ogg (https://freesound.org/people/Victor_Natas/sounds/544898/)
+      - pitch_black_pit.ogg (https://freesound.org/people/Victor_Natas/sounds/790001/)
