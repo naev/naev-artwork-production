@@ -1,0 +1,480 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v4.1.1",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 296,
+      "max": [
+        0.41379377245903015,
+        0.8544045686721802,
+        0.2640185058116913
+      ],
+      "min": [
+        -0.41379377245903015,
+        -0.6096051931381226,
+        -0.3499034345149994
+      ],
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 296,
+      "bufferView": 0,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 296,
+      "bufferView": 0,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 900,
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 120,
+      "bufferView": 1,
+      "byteOffset": 1800
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 88,
+      "max": [
+        0.08912210166454315,
+        -1.5876020193099976,
+        0.09030591696500778
+      ],
+      "min": [
+        -0.09309525787830353,
+        -2.6593244075775146,
+        -0.12041009217500687
+      ],
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 88,
+      "bufferView": 2,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 88,
+      "bufferView": 2,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5126,
+      "count": 2,
+      "max": [
+        5
+      ],
+      "min": [
+        0.0416666679084301
+      ],
+      "bufferView": 3,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 2,
+      "bufferView": 3,
+      "byteOffset": 8
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 2,
+      "bufferView": 3,
+      "byteOffset": 32
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        5
+      ],
+      "min": [
+        0.0416666679084301
+      ],
+      "bufferView": 3,
+      "byteOffset": 56
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 4,
+      "bufferView": 3,
+      "byteOffset": 72
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 9472,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 9472,
+      "byteLength": 2040,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11512,
+      "byteLength": 2816,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 14328,
+      "byteLength": 136
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 1
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 0
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 3
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 2
+        }
+      }
+    }
+  ],
+  "images": [
+    {
+      "name": "AO_bake",
+      "mimeType": "image/webp",
+      "uri": "AO_bake.webp"
+    },
+    {
+      "name": "llama",
+      "mimeType": "image/webp",
+      "uri": "llama.webp"
+    },
+    {
+      "name": "gradient_cyan2",
+      "mimeType": "image/webp",
+      "uri": "../textures/gradient_cyan2.webp"
+    },
+    {
+      "name": "gradient_cyan",
+      "mimeType": "image/webp",
+      "uri": "../textures/gradient_cyan.webp"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "escape_pod.bin",
+      "byteLength": 14464
+    }
+  ],
+  "materials": [
+    {
+      "name": "base",
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.20000000298023224,
+        "metallicFactor": 0.699999988079071,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "occlusionTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "engine_glow_nexus",
+      "alphaMode": "BLEND",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0.3277781903743744,
+          1,
+          1
+        ],
+        "roughnessFactor": 0.75,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 2
+        }
+      },
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 3
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "base",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 3
+        }
+      ]
+    },
+    {
+      "name": "glow.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "base",
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+      ],
+      "scale": [
+        1.0965317487716675,
+        1.0965317487716675,
+        1.0965317487716675
+      ],
+      "mesh": 0
+    },
+    {
+      "name": "glow",
+      "translation": [
+        0,
+        0,
+        1.0727512836456299
+      ],
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+      ],
+      "scale": [
+        1.0965317487716675,
+        1.0965317487716675,
+        1.0965317487716675
+      ],
+      "mesh": 1
+    },
+    {
+      "name": "base",
+      "rotation": [
+        0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+      ],
+      "scale": [
+        1.0965317487716675,
+        1.0965317487716675,
+        1.0965317487716675
+      ],
+      "mesh": 0
+    },
+    {
+      "name": "trail_center",
+      "extras": {
+        "NAEV_trail_generator": "thin"
+      }
+    }
+  ],
+  "animations": [
+    {
+      "name": "baseAction",
+      "samplers": [
+        {
+          "input": 8,
+          "output": 9,
+          "interpolation": "STEP"
+        },
+        {
+          "input": 11,
+          "output": 12,
+          "interpolation": "LINEAR"
+        },
+        {
+          "input": 8,
+          "output": 10,
+          "interpolation": "STEP"
+        }
+      ],
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 0,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 0,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 0,
+            "path": "scale"
+          }
+        }
+      ]
+    },
+    {
+      "name": "baseAction",
+      "samplers": [
+        {
+          "input": 8,
+          "output": 9,
+          "interpolation": "STEP"
+        },
+        {
+          "input": 11,
+          "output": 12,
+          "interpolation": "LINEAR"
+        },
+        {
+          "input": 8,
+          "output": 10,
+          "interpolation": "STEP"
+        }
+      ],
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 2,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 2,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 2,
+            "path": "scale"
+          }
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "name": "base",
+      "extras": {
+        "BBB_props": {}
+      },
+      "nodes": [
+        0
+      ]
+    },
+    {
+      "name": "engine",
+      "extras": {
+        "BBB_props": {}
+      },
+      "nodes": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "meta",
+      "nodes": [
+        3
+      ]
+    }
+  ],
+  "scene": 1,
+  "extensionsUsed": [
+    "EXT_texture_webp"
+  ],
+  "extensionsRequired": [
+    "EXT_texture_webp"
+  ]
+}
