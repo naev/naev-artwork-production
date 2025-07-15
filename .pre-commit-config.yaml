@@ -33,5 +33,5 @@ repos:
     - id: gltf-validator
       name: GLTF Validator
       entry: bash -c 'for x in "$@"; do gltf-transform validate --format csv "$x" || exit 1 ; done' --
-      files: .*\.gltf
+      files: .*\.gltf$
       language: system
